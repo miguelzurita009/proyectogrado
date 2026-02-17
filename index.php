@@ -2,29 +2,28 @@
 <html lang="zxx">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="keyword" content="">
-    <meta name="author" content="theme_ocean">
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keyword" content="" />
+    <meta name="author" content="flexilecode" />
     <!--! The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags !-->
     <!--! BEGIN: Apps Title-->
-    <title>Duralux || reCAPTCHA Settings</title>
+    <title>Duralux || Dashboard</title>
     <!--! END:  Apps Title-->
     <!--! BEGIN: Favicon-->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="vistas/assets/images/favicon.ico" />
     <!--! END: Favicon-->
     <!--! BEGIN: Bootstrap CSS-->
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="vistas/assets/css/bootstrap.min.css" />
     <!--! END: Bootstrap CSS-->
     <!--! BEGIN: Vendors CSS-->
-    <link rel="stylesheet" type="text/css" href="assets/vendors/css/vendors.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/vendors/css/select2.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/vendors/css/select2-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="vistas/assets/vendors/css/vendors.min.css" />
+    <link rel="stylesheet" type="text/css" href="vistas/assets/vendors/css/daterangepicker.min.css" />
     <!--! END: Vendors CSS-->
     <!--! BEGIN: Custom CSS-->
-    <link rel="stylesheet" type="text/css" href="assets/css/theme.min.css">
+    <link rel="stylesheet" type="text/css" href="vistas/assets/css/theme.min.css" />
     <!--! END: Custom CSS-->
     <!--! HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries !-->
     <!--! WARNING: Respond.js doesn"t work if you view the page via file: !-->
@@ -43,8 +42,8 @@
             <div class="m-header">
                 <a href="index.html" class="b-brand">
                     <!-- ========   change your logo hear   ============ -->
-                    <img src="assets/images/logo-full.png" alt="" class="logo logo-lg">
-                    <img src="assets/images/logo-abbr.png" alt="" class="logo logo-sm">
+                    <img src="vistas/assets/images/logo-full.png" alt="" class="logo logo-lg" />
+                    <img src="vistas/assets/images/logo-abbr.png" alt="" class="logo logo-sm" />
                 </a>
             </div>
             <div class="navbar-content">
@@ -189,9 +188,9 @@
                                     <span class="nxl-mtext">Login</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                                 </a>
                                 <ul class="nxl-submenu">
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-login-cover.html">Cover</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-login-minimal.html">Minimal</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-login-creative.html">Creative</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-login-cover.html">Cover</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-login-minimal.html">Minimal</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-login-creative.html">Creative</a></li>
                                 </ul>
                             </li>
                             <li class="nxl-item nxl-hasmenu">
@@ -199,9 +198,9 @@
                                     <span class="nxl-mtext">Register</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                                 </a>
                                 <ul class="nxl-submenu">
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-register-cover.html">Cover</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-register-minimal.html">Minimal</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-register-creative.html">Creative</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-register-cover.html">Cover</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-register-minimal.html">Minimal</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-register-creative.html">Creative</a></li>
                                 </ul>
                             </li>
                             <li class="nxl-item nxl-hasmenu">
@@ -209,9 +208,9 @@
                                     <span class="nxl-mtext">Error-404</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                                 </a>
                                 <ul class="nxl-submenu">
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-404-cover.html">Cover</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-404-minimal.html">Minimal</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-404-creative.html">Creative</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-404-cover.html">Cover</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-404-minimal.html">Minimal</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-404-creative.html">Creative</a></li>
                                 </ul>
                             </li>
                             <li class="nxl-item nxl-hasmenu">
@@ -219,9 +218,9 @@
                                     <span class="nxl-mtext">Reset Pass</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                                 </a>
                                 <ul class="nxl-submenu">
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-reset-cover.html">Cover</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-reset-minimal.html">Minimal</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-reset-creative.html">Creative</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-reset-cover.html">Cover</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-reset-minimal.html">Minimal</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-reset-creative.html">Creative</a></li>
                                 </ul>
                             </li>
                             <li class="nxl-item nxl-hasmenu">
@@ -229,9 +228,9 @@
                                     <span class="nxl-mtext">Verify OTP</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                                 </a>
                                 <ul class="nxl-submenu">
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-verify-cover.html">Cover</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-verify-minimal.html">Minimal</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-verify-creative.html">Creative</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-verify-cover.html">Cover</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-verify-minimal.html">Minimal</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-verify-creative.html">Creative</a></li>
                                 </ul>
                             </li>
                             <li class="nxl-item nxl-hasmenu">
@@ -239,9 +238,9 @@
                                     <span class="nxl-mtext">Maintenance</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                                 </a>
                                 <ul class="nxl-submenu">
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-maintenance-cover.html">Cover</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-maintenance-minimal.html">Minimal</a></li>
-                                    <li class="nxl-item"><a class="nxl-link" href="auth-maintenance-creative.html">Creative</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-maintenance-cover.html">Cover</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-maintenance-minimal.html">Minimal</a></li>
+                                    <li class="nxl-item"><a class="nxl-link" href="./auth-maintenance-creative.html">Creative</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -755,7 +754,7 @@
                                         <!--! [Start] v-pills-general !-->
                                         <div class="tab-pane fade show active" id="v-pills-general" role="tabpanel">
                                             <div class="mb-4 rounded-3 border">
-                                                <img src="assets/images/banner/mockup.png" alt="" class="img-fluid rounded-3">
+                                                <img src="vistas/assets/images/banner/mockup.png" alt="" class="img-fluid rounded-3" />
                                             </div>
                                             <h6 class="fw-bolder">Duralux - Admin Dashboard UiKit</h6>
                                             <p class="fs-12 fw-normal text-muted text-truncate-3-line">Get started Duralux with Duralux up and running. Duralux bootstrap template docs helps you to get started with simple html codes.</p>
@@ -794,18 +793,18 @@
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="nxl-mega-menu-image">
-                                                        <img src="assets/images/general/full-avatar.png" alt="" class="img-fluid full-user-avtar">
+                                                        <img src="vistas/assets/images/general/full-avatar.png" alt="" class="img-fluid full-user-avtar" />
                                                     </div>
                                                 </div>
                                             </div>
-                                            <hr class="border-top-dashed">
+                                            <hr class="border-top-dashed" />
                                             <div class="d-lg-flex align-items-center justify-content-between">
                                                 <div>
                                                     <h6 class="menu-item-heading text-truncate-1-line">Need more application?</h6>
                                                     <p class="fs-12 text-muted mb-0 text-truncate-3-line">We are ready to build custom applications.</p>
                                                 </div>
                                                 <div class="mt-2 mt-lg-0">
-                                                    <a href="mailto:theme_ocean@example.com" class="fs-13 fw-bold text-primary">Contact Us &rarr;</a>
+                                                    <a href="mailto:flexilecode@gmail.com" class="fs-13 fw-bold text-primary">Contact Us &rarr;</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -825,7 +824,7 @@
                                                 <div class="col-lg-4">
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/app-store.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/app-store.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">App Store</div>
                                                         <div class="menu-item-arrow">
@@ -834,7 +833,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/spotify.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/spotify.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Spotify</div>
                                                         <div class="menu-item-arrow">
@@ -843,7 +842,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/figma.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/figma.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Figma</div>
                                                         <div class="menu-item-arrow">
@@ -852,7 +851,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/shopify.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/shopify.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Shopify</div>
                                                         <div class="menu-item-arrow">
@@ -861,7 +860,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/paypal.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/paypal.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Paypal</div>
                                                         <div class="menu-item-arrow">
@@ -872,7 +871,7 @@
                                                 <div class="col-lg-4">
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/gmail.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/gmail.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Gmail</div>
                                                         <div class="menu-item-arrow">
@@ -881,7 +880,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/dropbox.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/dropbox.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Dropbox</div>
                                                         <div class="menu-item-arrow">
@@ -890,7 +889,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/google-drive.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/google-drive.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Google Drive</div>
                                                         <div class="menu-item-arrow">
@@ -899,7 +898,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/github.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/github.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Github</div>
                                                         <div class="menu-item-arrow">
@@ -908,7 +907,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/gitlab.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/gitlab.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Gitlab</div>
                                                         <div class="menu-item-arrow">
@@ -919,7 +918,7 @@
                                                 <div class="col-lg-4">
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/facebook.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/facebook.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Facebook</div>
                                                         <div class="menu-item-arrow">
@@ -928,7 +927,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/pinterest.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/pinterest.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Pinterest</div>
                                                         <div class="menu-item-arrow">
@@ -937,7 +936,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/instagram.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/instagram.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Instagram</div>
                                                         <div class="menu-item-arrow">
@@ -946,7 +945,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/twitter.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/twitter.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Twitter</div>
                                                         <div class="menu-item-arrow">
@@ -955,7 +954,7 @@
                                                     </a>
                                                     <a href="javascript:void(0);" class="dropdown-item">
                                                         <div class="menu-item-icon">
-                                                            <img src="assets/images/brand/youtube.png" alt="" class="img-fluid">
+                                                            <img src="vistas/assets/images/brand/youtube.png" alt="" class="img-fluid" />
                                                         </div>
                                                         <div class="menu-item-title">Youtube</div>
                                                         <div class="menu-item-arrow">
@@ -964,7 +963,7 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <hr class="border-top-dashed">
+                                            <hr class="border-top-dashed" />
                                             <p class="fs-13 text-muted mb-0">Need help? Contact our <a href="javascript:void(0);" class="fst-italic">support center</a></p>
                                         </div>
                                         <!--! [End] v-pills-integrations !-->
@@ -1004,10 +1003,10 @@
                                                 </div>
                                                 <div class="col-xl-4">
                                                     <div class="nxl-mega-menu-image">
-                                                        <img src="assets/images/banner/1.jpg" alt="" class="img-fluid">
+                                                        <img src="vistas/assets/images/banner/1.jpg" alt="" class="img-fluid" />
                                                     </div>
                                                     <div class="mt-4">
-                                                        <a href="mailto:theme_ocean@example.com" class="fs-13 fw-bold">View all resources on Duralux &rarr;</a>
+                                                        <a href="mailto:flexilecode@gmail.com" class="fs-13 fw-bold">View all resources on Duralux &rarr;</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1114,7 +1113,7 @@
                                                         <div class="carousel-inner rounded-3">
                                                             <div class="carousel-item active">
                                                                 <div class="nxl-mega-menu-image">
-                                                                    <img src="assets/images/banner/6.jpg" alt="" class="img-fluid d-block w-100">
+                                                                    <img src="vistas/assets/images/banner/6.jpg" alt="" class="img-fluid d-block w-100" />
                                                                 </div>
                                                                 <div class="carousel-caption">
                                                                     <h5 class="carousel-caption-title text-truncate-1-line">Shopify eCommerce Store</h5>
@@ -1123,7 +1122,7 @@
                                                             </div>
                                                             <div class="carousel-item">
                                                                 <div class="nxl-mega-menu-image">
-                                                                    <img src="assets/images/banner/5.jpg" alt="" class="img-fluid d-block w-100">
+                                                                    <img src="vistas/assets/images/banner/5.jpg" alt="" class="img-fluid d-block w-100" />
                                                                 </div>
                                                                 <div class="carousel-caption">
                                                                     <h5 class="carousel-caption-title text-truncate-1-line">iOS Apps Development</h5>
@@ -1132,7 +1131,7 @@
                                                             </div>
                                                             <div class="carousel-item">
                                                                 <div class="nxl-mega-menu-image">
-                                                                    <img src="assets/images/banner/4.jpg" alt="" class="img-fluid d-block w-100">
+                                                                    <img src="vistas/assets/images/banner/4.jpg" alt="" class="img-fluid d-block w-100" />
                                                                 </div>
                                                                 <div class="carousel-caption">
                                                                     <h5 class="carousel-caption-title text-truncate-1-line">Figma Dashboard Design</h5>
@@ -1141,7 +1140,7 @@
                                                             </div>
                                                             <div class="carousel-item">
                                                                 <div class="nxl-mega-menu-image">
-                                                                    <img src="assets/images/banner/3.jpg" alt="" class="img-fluid d-block w-100">
+                                                                    <img src="vistas/assets/images/banner/3.jpg" alt="" class="img-fluid d-block w-100" />
                                                                 </div>
                                                                 <div class="carousel-caption">
                                                                     <h5 class="carousel-caption-title text-truncate-1-line">React Dashboard Design</h5>
@@ -1150,7 +1149,7 @@
                                                             </div>
                                                             <div class="carousel-item">
                                                                 <div class="nxl-mega-menu-image">
-                                                                    <img src="assets/images/banner/2.jpg" alt="" class="img-fluid d-block w-100">
+                                                                    <img src="vistas/assets/images/banner/2.jpg" alt="" class="img-fluid d-block w-100" />
                                                                 </div>
                                                                 <div class="carousel-caption">
                                                                     <h5 class="carousel-caption-title text-truncate-1-line">Standup Team Meeting</h5>
@@ -1159,7 +1158,7 @@
                                                             </div>
                                                             <div class="carousel-item">
                                                                 <div class="nxl-mega-menu-image">
-                                                                    <img src="assets/images/banner/1.jpg" alt="" class="img-fluid d-block w-100">
+                                                                    <img src="vistas/assets/images/banner/1.jpg" alt="" class="img-fluid d-block w-100" />
                                                                 </div>
                                                                 <div class="carousel-caption">
                                                                     <h5 class="carousel-caption-title text-truncate-1-line">Zoom Team Meeting</h5>
@@ -1235,7 +1234,7 @@
                                                                 <div class="col-xl-6">
                                                                     <div class="d-lg-flex align-items-center gap-3">
                                                                         <div class="wd-150 rounded-3">
-                                                                            <img src="assets/images/banner/1.jpg" alt="" class="img-fluid rounded-3">
+                                                                            <img src="vistas/assets/images/banner/1.jpg" alt="" class="img-fluid rounded-3" />
                                                                         </div>
                                                                         <div class="mt-3 mt-lg-0 ms-lg-3 item-text">
                                                                             <a href="javascript:void(0);">
@@ -1244,7 +1243,7 @@
                                                                             <p class="fs-12 fw-normal text-muted mb-0 text-truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint nam ullam iure eum sed rerum libero quis doloremque maiores veritatis?</p>
                                                                             <div class="hstack gap-2 mt-3">
                                                                                 <div class="avatar-image avatar-sm">
-                                                                                    <img src="assets/images/avatar/1.png" alt="" class="img-fluid">
+                                                                                    <img src="vistas/assets/images/avatar/1.png" alt="" class="img-fluid" />
                                                                                 </div>
                                                                                 <a href="javascript:void(0);" class="fs-12">Alexandra Della</a>
                                                                             </div>
@@ -1254,7 +1253,7 @@
                                                                 <div class="col-xl-6">
                                                                     <div class="d-lg-flex align-items-center gap-3">
                                                                         <div class="wd-150 rounded-3">
-                                                                            <img src="assets/images/banner/2.jpg" alt="" class="img-fluid rounded-3">
+                                                                            <img src="vistas/assets/images/banner/2.jpg" alt="" class="img-fluid rounded-3" />
                                                                         </div>
                                                                         <div class="mt-3 mt-lg-0 ms-lg-3 item-text">
                                                                             <a href="javascript:void(0);">
@@ -1263,7 +1262,7 @@
                                                                             <p class="fs-12 fw-normal text-muted mb-0 text-truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint nam ullam iure eum sed rerum libero quis doloremque maiores veritatis?</p>
                                                                             <div class="hstack gap-2 mt-3">
                                                                                 <div class="avatar-image avatar-sm">
-                                                                                    <img src="assets/images/avatar/2.png" alt="" class="img-fluid">
+                                                                                    <img src="vistas/assets/images/avatar/2.png" alt="" class="img-fluid" />
                                                                                 </div>
                                                                                 <a href="javascript:void(0);" class="fs-12">Green Cute</a>
                                                                             </div>
@@ -1273,7 +1272,7 @@
                                                                 <div class="col-xl-6">
                                                                     <div class="d-lg-flex align-items-center gap-3">
                                                                         <div class="wd-150 rounded-3">
-                                                                            <img src="assets/images/banner/3.jpg" alt="" class="img-fluid rounded-3">
+                                                                            <img src="vistas/assets/images/banner/3.jpg" alt="" class="img-fluid rounded-3" />
                                                                         </div>
                                                                         <div class="mt-3 mt-lg-0 ms-lg-3 item-text">
                                                                             <a href="javascript:void(0);">
@@ -1282,7 +1281,7 @@
                                                                             <p class="fs-12 fw-normal text-muted mb-0 text-truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint nam ullam iure eum sed rerum libero quis doloremque maiores veritatis?</p>
                                                                             <div class="hstack gap-2 mt-3">
                                                                                 <div class="avatar-image avatar-sm">
-                                                                                    <img src="assets/images/avatar/3.png" alt="" class="img-fluid">
+                                                                                    <img src="vistas/assets/images/avatar/3.png" alt="" class="img-fluid" />
                                                                                 </div>
                                                                                 <a href="javascript:void(0);" class="fs-12">Malanie Hanvey</a>
                                                                             </div>
@@ -1292,7 +1291,7 @@
                                                                 <div class="col-xl-6">
                                                                     <div class="d-lg-flex align-items-center gap-3">
                                                                         <div class="wd-150 rounded-3">
-                                                                            <img src="assets/images/banner/4.jpg" alt="" class="img-fluid rounded-3">
+                                                                            <img src="vistas/assets/images/banner/4.jpg" alt="" class="img-fluid rounded-3" />
                                                                         </div>
                                                                         <div class="mt-3 mt-lg-0 ms-lg-3 item-text">
                                                                             <a href="javascript:void(0);">
@@ -1301,7 +1300,7 @@
                                                                             <p class="fs-12 fw-normal text-muted mb-0 text-truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint nam ullam iure eum sed rerum libero quis doloremque maiores veritatis?</p>
                                                                             <div class="hstack gap-2 mt-3">
                                                                                 <div class="avatar-image avatar-sm">
-                                                                                    <img src="assets/images/avatar/4.png" alt="" class="img-fluid">
+                                                                                    <img src="vistas/assets/images/avatar/4.png" alt="" class="img-fluid" />
                                                                                 </div>
                                                                                 <a href="javascript:void(0);" class="fs-12">Kenneth Hune</a>
                                                                             </div>
@@ -1420,7 +1419,7 @@
                                                                 <div class="carousel-inner rounded-3">
                                                                     <div class="carousel-item active">
                                                                         <div class="nxl-mega-menu-image">
-                                                                            <img src="assets/images/banner/6.jpg" alt="" class="img-fluid d-block w-100">
+                                                                            <img src="vistas/assets/images/banner/6.jpg" alt="" class="img-fluid d-block w-100" />
                                                                         </div>
                                                                         <div class="carousel-caption">
                                                                             <h5 class="carousel-caption-title text-truncate-1-line">Shopify eCommerce Store</h5>
@@ -1429,7 +1428,7 @@
                                                                     </div>
                                                                     <div class="carousel-item">
                                                                         <div class="nxl-mega-menu-image">
-                                                                            <img src="assets/images/banner/5.jpg" alt="" class="img-fluid d-block w-100">
+                                                                            <img src="vistas/assets/images/banner/5.jpg" alt="" class="img-fluid d-block w-100" />
                                                                         </div>
                                                                         <div class="carousel-caption">
                                                                             <h5 class="carousel-caption-title text-truncate-1-line">iOS Apps Development</h5>
@@ -1438,7 +1437,7 @@
                                                                     </div>
                                                                     <div class="carousel-item">
                                                                         <div class="nxl-mega-menu-image">
-                                                                            <img src="assets/images/banner/4.jpg" alt="" class="img-fluid d-block w-100">
+                                                                            <img src="vistas/assets/images/banner/4.jpg" alt="" class="img-fluid d-block w-100" />
                                                                         </div>
                                                                         <div class="carousel-caption">
                                                                             <h5 class="carousel-caption-title text-truncate-1-line">Figma Dashboard Design</h5>
@@ -1447,7 +1446,7 @@
                                                                     </div>
                                                                     <div class="carousel-item">
                                                                         <div class="nxl-mega-menu-image">
-                                                                            <img src="assets/images/banner/3.jpg" alt="" class="img-fluid d-block w-100">
+                                                                            <img src="vistas/assets/images/banner/3.jpg" alt="" class="img-fluid d-block w-100" />
                                                                         </div>
                                                                         <div class="carousel-caption">
                                                                             <h5 class="carousel-caption-title text-truncate-1-line">React Dashboard Design</h5>
@@ -1456,7 +1455,7 @@
                                                                     </div>
                                                                     <div class="carousel-item">
                                                                         <div class="nxl-mega-menu-image">
-                                                                            <img src="assets/images/banner/2.jpg" alt="" class="img-fluid d-block w-100">
+                                                                            <img src="vistas/assets/images/banner/2.jpg" alt="" class="img-fluid d-block w-100" />
                                                                         </div>
                                                                         <div class="carousel-caption">
                                                                             <h5 class="carousel-caption-title text-truncate-1-line">Standup Team Meeting</h5>
@@ -1465,7 +1464,7 @@
                                                                     </div>
                                                                     <div class="carousel-item">
                                                                         <div class="nxl-mega-menu-image">
-                                                                            <img src="assets/images/banner/1.jpg" alt="" class="img-fluid d-block w-100">
+                                                                            <img src="vistas/assets/images/banner/1.jpg" alt="" class="img-fluid d-block w-100" />
                                                                         </div>
                                                                         <div class="carousel-caption">
                                                                             <h5 class="carousel-caption-title text-truncate-1-line">Zoom Team Meeting</h5>
@@ -1571,10 +1570,10 @@
                                                         </div>
                                                         <div class="col-xxl-3 offset-xxl-1 col-xl-4">
                                                             <div class="nxl-mega-menu-image">
-                                                                <img src="assets/images/banner/1.jpg" alt="" class="img-fluid">
+                                                                <img src="vistas/assets/images/banner/1.jpg" alt="" class="img-fluid" />
                                                             </div>
                                                             <div class="mt-4">
-                                                                <a href="mailto:theme_ocean@example.com" class="fs-13 fw-bold">View all features on Duralux &rarr;</a>
+                                                                <a href="mailto:flexilecode@gmail.com" class="fs-13 fw-bold">View all features on Duralux &rarr;</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1595,7 +1594,7 @@
                                                                 <div class="col-xxl-4 col-lg-6">
                                                                     <div class="d-flex align-items-center gap-3">
                                                                         <div class="wd-100 rounded-3">
-                                                                            <img src="assets/images/banner/1.jpg" alt="" class="img-fluid rounded-3 border border-3">
+                                                                            <img src="vistas/assets/images/banner/1.jpg" alt="" class="img-fluid rounded-3 border border-3" />
                                                                         </div>
                                                                         <div>
                                                                             <a href="javascript:void(0);">
@@ -1609,7 +1608,7 @@
                                                                 <div class="col-xxl-4 col-lg-6">
                                                                     <div class="d-flex align-items-center gap-3">
                                                                         <div class="wd-100 rounded-3">
-                                                                            <img src="assets/images/banner/2.jpg" alt="" class="img-fluid rounded-3 border border-3">
+                                                                            <img src="vistas/assets/images/banner/2.jpg" alt="" class="img-fluid rounded-3 border border-3" />
                                                                         </div>
                                                                         <div>
                                                                             <a href="javascript:void(0);">
@@ -1623,7 +1622,7 @@
                                                                 <div class="col-xxl-4 col-lg-6">
                                                                     <div class="d-flex align-items-center gap-3">
                                                                         <div class="wd-100 rounded-3">
-                                                                            <img src="assets/images/banner/3.jpg" alt="" class="img-fluid rounded-3 border border-3">
+                                                                            <img src="vistas/assets/images/banner/3.jpg" alt="" class="img-fluid rounded-3 border border-3" />
                                                                         </div>
                                                                         <div>
                                                                             <a href="javascript:void(0);">
@@ -1637,7 +1636,7 @@
                                                                 <div class="col-xxl-4 col-lg-6">
                                                                     <div class="d-flex align-items-center gap-3">
                                                                         <div class="wd-100 rounded-3">
-                                                                            <img src="assets/images/banner/4.jpg" alt="" class="img-fluid rounded-3 border border-3">
+                                                                            <img src="vistas/assets/images/banner/4.jpg" alt="" class="img-fluid rounded-3 border border-3" />
                                                                         </div>
                                                                         <div>
                                                                             <a href="javascript:void(0);">
@@ -1651,7 +1650,7 @@
                                                                 <div class="col-xxl-4 col-lg-6">
                                                                     <div class="d-flex align-items-center gap-3">
                                                                         <div class="wd-100 rounded-3">
-                                                                            <img src="assets/images/banner/5.jpg" alt="" class="img-fluid rounded-3 border border-3">
+                                                                            <img src="vistas/assets/images/banner/5.jpg" alt="" class="img-fluid rounded-3 border border-3" />
                                                                         </div>
                                                                         <div>
                                                                             <a href="javascript:void(0);">
@@ -1665,7 +1664,7 @@
                                                                 <div class="col-xxl-4 col-lg-6">
                                                                     <div class="d-flex align-items-center gap-3">
                                                                         <div class="wd-100 rounded-3">
-                                                                            <img src="assets/images/banner/6.jpg" alt="" class="img-fluid rounded-3 border border-3">
+                                                                            <img src="vistas/assets/images/banner/6.jpg" alt="" class="img-fluid rounded-3 border border-3" />
                                                                         </div>
                                                                         <div>
                                                                             <a href="javascript:void(0);">
@@ -1719,7 +1718,7 @@
                                 <span class="input-group-text">
                                     <i class="feather-search fs-6 text-muted"></i>
                                 </span>
-                                <input type="text" class="form-control search-input-field" placeholder="Search....">
+                                <input type="text" class="form-control search-input-field" placeholder="Search...." />
                                 <span class="input-group-text">
                                     <button type="button" class="btn-close"></button>
                                 </span>
@@ -1794,7 +1793,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image rounded">
-                                                <img src="assets/images/avatar/1.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/avatar/1.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Alexandra Della</a>
@@ -1808,7 +1807,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image rounded">
-                                                <img src="assets/images/avatar/2.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/avatar/2.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Green Cute</a>
@@ -1822,7 +1821,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image rounded">
-                                                <img src="assets/images/avatar/3.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/avatar/3.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Malanie Hanvey</a>
@@ -1836,7 +1835,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image rounded">
-                                                <img src="assets/images/avatar/4.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/avatar/4.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Kenneth Hune</a>
@@ -1850,7 +1849,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-0">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image rounded">
-                                                <img src="assets/images/avatar/5.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/avatar/5.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Archie Cantones</a>
@@ -1868,7 +1867,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image bg-gray-200 rounded">
-                                                <img src="assets/images/file-icons/css.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/file-icons/css.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Project Style CSS</a>
@@ -1882,7 +1881,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image bg-gray-200 rounded">
-                                                <img src="assets/images/file-icons/zip.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/file-icons/zip.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Dashboard Project Zip</a>
@@ -1896,7 +1895,7 @@
                                     <div class="d-flex align-items-center justify-content-between mb-0">
                                         <div class="d-flex align-items-center gap-3">
                                             <div class="avatar-image bg-gray-200 rounded">
-                                                <img src="assets/images/file-icons/pdf.png" alt="" class="img-fluid">
+                                                <img src="vistas/assets/images/file-icons/pdf.png" alt="" class="img-fluid" />
                                             </div>
                                             <div>
                                                 <a href="javascript:void(0);" class="font-body fw-bold d-block mb-1">Project Document PDF</a>
@@ -1915,7 +1914,7 @@
                     </div>
                     <div class="dropdown nxl-h-item nxl-header-language d-none d-sm-flex">
                         <a href="javascript:void(0);" class="nxl-head-link me-0 nxl-language-link" data-bs-toggle="dropdown" data-bs-auto-close="outside">
-                            <img src="assets/vendors/img/flags/4x3/us.svg" alt="" class="img-fluid wd-20">
+                            <img src="vistas/assets/vendors/img/flags/4x3/us.svg" alt="" class="img-fluid wd-20" />
                         </a>
                         <div class="dropdown-menu dropdown-menu-end nxl-h-dropdown nxl-language-dropdown">
                             <div class="dropdown-divider mt-0"></div>
@@ -1933,73 +1932,73 @@
                                 <div class="row px-4 pt-3">
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/sa.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/sa.svg" alt="" class="img-fluid" /></div>
                                             <span>Arabic</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/bd.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/bd.svg" alt="" class="img-fluid" /></div>
                                             <span>Bengali</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/ch.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/ch.svg" alt="" class="img-fluid" /></div>
                                             <span>Chinese</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/nl.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/nl.svg" alt="" class="img-fluid" /></div>
                                             <span>Dutch</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select active">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/us.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/us.svg" alt="" class="img-fluid" /></div>
                                             <span>English</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/fr.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/fr.svg" alt="" class="img-fluid" /></div>
                                             <span>French</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/de.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/de.svg" alt="" class="img-fluid" /></div>
                                             <span>German</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/in.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/in.svg" alt="" class="img-fluid" /></div>
                                             <span>Hindi</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/ru.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/ru.svg" alt="" class="img-fluid" /></div>
                                             <span>Russian</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/es.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/es.svg" alt="" class="img-fluid" /></div>
                                             <span>Spanish</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/tr.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/tr.svg" alt="" class="img-fluid" /></div>
                                             <span>Turkish</span>
                                         </a>
                                     </div>
                                     <div class="col-sm-4 col-6 language_select">
                                         <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                            <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/pk.svg" alt="" class="img-fluid"></div>
+                                            <div class="avatar-image avatar-sm"><img src="vistas/assets/vendors/img/flags/1x1/pk.svg" alt="" class="img-fluid" /></div>
                                             <span>Urdo</span>
                                         </a>
                                     </div>
@@ -2060,7 +2059,7 @@
                                 </a>
                             </div>
                             <div class="notifications-item">
-                                <img src="assets/images/avatar/2.png" alt="" class="rounded me-3 border">
+                                <img src="vistas/assets/images/avatar/2.png" alt="" class="rounded me-3 border" />
                                 <div class="notifications-desc">
                                     <a href="javascript:void(0);" class="font-body text-truncate-2-line"> <span class="fw-semibold text-dark">Malanie Hanvey</span> We should talk about that at lunch!</a>
                                     <div class="d-flex justify-content-between align-items-center">
@@ -2075,7 +2074,7 @@
                                 </div>
                             </div>
                             <div class="notifications-item">
-                                <img src="assets/images/avatar/3.png" alt="" class="rounded me-3 border">
+                                <img src="vistas/assets/images/avatar/3.png" alt="" class="rounded me-3 border" />
                                 <div class="notifications-desc">
                                     <a href="javascript:void(0);" class="font-body text-truncate-2-line"> <span class="fw-semibold text-dark">Valentine Maton</span> You can download the latest invoices now.</a>
                                     <div class="d-flex justify-content-between align-items-center">
@@ -2090,7 +2089,7 @@
                                 </div>
                             </div>
                             <div class="notifications-item">
-                                <img src="assets/images/avatar/4.png" alt="" class="rounded me-3 border">
+                                <img src="vistas/assets/images/avatar/4.png" alt="" class="rounded me-3 border" />
                                 <div class="notifications-desc">
                                     <a href="javascript:void(0);" class="font-body text-truncate-2-line"> <span class="fw-semibold text-dark">Archie Cantones</span> Don't forget to pickup Jeremy after school!</a>
                                     <div class="d-flex justify-content-between align-items-center">
@@ -2111,12 +2110,12 @@
                     </div>
                     <div class="dropdown nxl-h-item">
                         <a href="javascript:void(0);" data-bs-toggle="dropdown" role="button" data-bs-auto-close="outside">
-                            <img src="assets/images/avatar/1.png" alt="user-image" class="img-fluid user-avtar me-0">
+                            <img src="vistas/assets/images/avatar/1.png" alt="user-image" class="img-fluid user-avtar me-0" />
                         </a>
                         <div class="dropdown-menu dropdown-menu-end nxl-h-dropdown nxl-user-dropdown">
                             <div class="dropdown-header">
                                 <div class="d-flex align-items-center">
-                                    <img src="assets/images/avatar/1.png" alt="user-image" class="img-fluid user-avtar">
+                                    <img src="vistas/assets/images/avatar/1.png" alt="user-image" class="img-fluid user-avtar" />
                                     <div>
                                         <h6 class="text-dark mb-0">Alexandra Della <span class="badge bg-soft-success text-success ms-1">PRO</span></h6>
                                         <span class="fs-12 fw-medium text-muted">alex@example.com</span>
@@ -2259,724 +2258,1132 @@
     <!--! ================================================================ !-->
     <!--! [Start] Main Content !-->
     <!--! ================================================================ !-->
-    <main class="nxl-container apps-container">
-        <div class="nxl-content without-header nxl-full-content">
-            <!-- [ Main Content ] start -->
-            <div class="main-content d-flex">
-                <!-- [ Content Sidebar ] start -->
-                <div class="content-sidebar content-sidebar-md" data-scrollbar-target="#psScrollbarInit">
-                    <div class="content-sidebar-header bg-white sticky-top hstack justify-content-between">
-                        <h4 class="fw-bolder mb-0">Settings</h4>
-                        <a href="javascript:void(0);" class="app-sidebar-close-trigger d-flex">
-                            <i class="feather-x"></i>
-                        </a>
+    <main class="nxl-container">
+        <div class="nxl-content">
+            <!-- [ page-header ] start -->
+            <div class="page-header">
+                <div class="page-header-left d-flex align-items-center">
+                    <div class="page-header-title">
+                        <h5 class="m-b-10">Dashboard</h5>
                     </div>
-                    <div class="content-sidebar-body">
-                        <ul class="nav flex-column nxl-content-sidebar-item">
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-general.html">
-                                    <i class="feather-airplay"></i>
-                                    <span>General</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-seo.html">
-                                    <i class="feather-search"></i>
-                                    <span>SEO</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-tags.html">
-                                    <i class="feather-tag"></i>
-                                    <span>Tags</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-email.html">
-                                    <i class="feather-mail"></i>
-                                    <span>Email</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-tasks.html">
-                                    <i class="feather-check-circle"></i>
-                                    <span>Tasks</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-leads.html">
-                                    <i class="feather-crosshair"></i>
-                                    <span>Leads</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-support.html">
-                                    <i class="feather-life-buoy"></i>
-                                    <span>Support</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-finance.html">
-                                    <i class="feather-dollar-sign"></i>
-                                    <span>Finance</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-gateways.html">
-                                    <i class="feather-git-branch"></i>
-                                    <span>Gateways</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-customers.html">
-                                    <i class="feather-users"></i>
-                                    <span>Customers</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-localization.html">
-                                    <i class="feather-globe"></i>
-                                    <span>Localization</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" href="settings-recaptcha.html">
-                                    <i class="feather-shield"></i>
-                                    <span>reCaptcha</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="settings-miscellaneous.html">
-                                    <i class="feather-cast"></i>
-                                    <span>Miscellaneous</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item">Dashboard</li>
+                    </ul>
                 </div>
-                <!-- [ Content Sidebar  ] end -->
-                <!-- [ Main Area  ] start -->
-                <div class="content-area" data-scrollbar-target="#psScrollbarInit">
-                    <div class="content-area-header bg-white sticky-top">
-                        <div class="page-header-left">
-                            <a href="javascript:void(0);" class="app-sidebar-open-trigger me-2">
-                                <i class="feather-align-left fs-24"></i>
+                <div class="page-header-right ms-auto">
+                    <div class="page-header-right-items">
+                        <div class="d-flex d-md-none">
+                            <a href="javascript:void(0)" class="page-header-right-close-toggle">
+                                <i class="feather-arrow-left me-2"></i>
+                                <span>Back</span>
                             </a>
                         </div>
-                        <div class="page-header-right ms-auto">
-                            <div class="d-flex align-items-center gap-3 page-header-right-items-wrapper">
-                                <a href="javascript:void(0);" class="text-danger">Cancel</a>
-                                <a href="javascript:void(0);" class="btn btn-primary successAlertMessage">
-                                    <i class="feather-save me-2"></i>
-                                    <span>Save Changes</span>
+                        <div class="d-flex align-items-center gap-2 page-header-right-items-wrapper">
+                            <div id="reportrange" class="reportrange-picker d-flex align-items-center">
+                                <span class="reportrange-picker-field"></span>
+                            </div>
+                            <div class="dropdown filter-dropdown">
+                                <a class="btn btn-md btn-light-brand" data-bs-toggle="dropdown" data-bs-offset="0, 10" data-bs-auto-close="outside">
+                                    <i class="feather-filter me-2"></i>
+                                    <span>Filter</span>
                                 </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content-area-body">
-                        <div class="card mb-0">
-                            <div class="card-body">
-                                <div class="mb-5">
-                                    <label class="form-label">Google API Client ID</label>
-                                    <input type="text" class="form-control" placeholder="Google API Client ID">
-                                    <small class="form-text text-muted">Google API Client ID [Ex: G-theme_ocean-2023]</small>
-                                </div>
-                                <div class="mb-5">
-                                    <label class="form-label">Google API Key</label>
-                                    <input type="text" class="form-control" placeholder="Google API Key">
-                                    <small class="form-text text-muted">Google API Key [Ex: 25DFSDDSF584DSF5245DFSF575]</small>
-                                </div>
-                                <hr class="my-5">
-                                <div class="mb-5">
-                                    <h4 class="fw-bold">reCAPTCHA</h4>
-                                    <div class="fs-12 text-muted">reCAPTCHA setup</div>
-                                </div>
-                                <div class="mb-5">
-                                    <label class="form-label">Enable reCAPTCHA on customers area (Login/Register) </label>
-                                    <select class="form-select" data-select2-selector="icon">
-                                        <option value="" data-icon="feather-check text-success" selected>Yes</option>
-                                        <option value="" data-icon="feather-x text-danger">No</option>
-                                    </select>
-                                    <small class="form-text text-muted">Enable reCAPTCHA on customers area (Login/Register) [Ex: Yes/No]</small>
-                                </div>
-                                <div class="mb-5">
-                                    <label class="form-label">Site key</label>
-                                    <input type="text" class="form-control" placeholder="Site key">
-                                    <small class="form-text text-muted">Site key [Ex: G-theme_ocean-2023]</small>
-                                </div>
-                                <div class="mb-5">
-                                    <label class="form-label">Secret key</label>
-                                    <input type="text" class="form-control" placeholder="Secret key">
-                                    <small class="form-text text-muted">Secret key [Ex: 25DFSDDSF584DSF5245DFSF575]</small>
-                                </div>
-                                <div class="mb-5">
-                                    <label class="form-label">Ignored IP Addresses</label>
-                                    <input type="text" class="form-control" placeholder="Secret key">
-                                    <small class="form-text text-muted">Enter coma separated IP addresses that you want the reCaptcha to skip validation.</small>
-                                </div>
-                                <div class="mb-0">
-                                    <label class="form-label">Ignored IP Addresses</label>
-                                    <textarea class="form-control" cols="30" rows="10" placeholder="147.365.325.654
-254.236.214.256
-159.357.258.951
-321.256.254.852
-145.326.698.562
-258.369.147.654
-236.354.256.357"></textarea>
-                                    <small class="form-text text-muted">Enter coma separated IP addresses that you want the reCaptcha to skip validation.</small>
+                                <div class="dropdown-menu dropdown-menu-end">
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="Role" checked="checked" />
+                                            <label class="custom-control-label c-pointer" for="Role">Role</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="Team" checked="checked" />
+                                            <label class="custom-control-label c-pointer" for="Team">Team</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="Email" checked="checked" />
+                                            <label class="custom-control-label c-pointer" for="Email">Email</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="Member" checked="checked" />
+                                            <label class="custom-control-label c-pointer" for="Member">Member</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="Recommendation" checked="checked" />
+                                            <label class="custom-control-label c-pointer" for="Recommendation">Recommendation</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-divider"></div>
+                                    <a href="javascript:void(0);" class="dropdown-item">
+                                        <i class="feather-plus me-3"></i>
+                                        <span>Create New</span>
+                                    </a>
+                                    <a href="javascript:void(0);" class="dropdown-item">
+                                        <i class="feather-filter me-3"></i>
+                                        <span>Manage Filter</span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- [ Footer ] start -->
-                    <footer class="footer">
-                        <p class="fs-11 text-muted fw-medium text-uppercase mb-0 copyright">
-                            <span>Copyright ©</span>
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script>
-                        </p>
-                        <div class="d-flex align-items-center gap-4">
-                            <a href="javascript:void(0);" class="fs-11 fw-semibold text-uppercase">Help</a>
-                            <a href="javascript:void(0);" class="fs-11 fw-semibold text-uppercase">Terms</a>
-                            <a href="javascript:void(0);" class="fs-11 fw-semibold text-uppercase">Privacy</a>
-                        </div>
-                    </footer>
-                    <!-- [ Footer ] end -->
+                    <div class="d-md-none d-flex align-items-center">
+                        <a href="javascript:void(0)" class="page-header-right-open-toggle">
+                            <i class="feather-align-right fs-20"></i>
+                        </a>
+                    </div>
                 </div>
-                <!-- [ Content Area ] end -->
+            </div>
+            <!-- [ page-header ] end -->
+            <!-- [ Main Content ] start -->
+            <div class="main-content">
+                <div class="row">
+                    <!-- [Invoices Awaiting Payment] start -->
+                    <div class="col-xxl-3 col-md-6">
+                        <div class="card stretch stretch-full">
+                            <div class="card-body">
+                                <div class="d-flex align-items-start justify-content-between mb-4">
+                                    <div class="d-flex gap-4 align-items-center">
+                                        <div class="avatar-text avatar-lg bg-gray-200">
+                                            <i class="feather-dollar-sign"></i>
+                                        </div>
+                                        <div>
+                                            <div class="fs-4 fw-bold text-dark"><span class="counter">45</span>/<span class="counter">76</span></div>
+                                            <h3 class="fs-13 fw-semibold text-truncate-1-line">Invoices Awaiting Payment</h3>
+                                        </div>
+                                    </div>
+                                    <a href="javascript:void(0);" class="">
+                                        <i class="feather-more-vertical"></i>
+                                    </a>
+                                </div>
+                                <div class="pt-4">
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <a href="javascript:void(0);" class="fs-12 fw-medium text-muted text-truncate-1-line">Invoices Awaiting </a>
+                                        <div class="w-100 text-end">
+                                            <span class="fs-12 text-dark">$5,569</span>
+                                            <span class="fs-11 text-muted">(56%)</span>
+                                        </div>
+                                    </div>
+                                    <div class="progress mt-2 ht-3">
+                                        <div class="progress-bar bg-primary" role="progressbar" style="width: 56%"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Invoices Awaiting Payment] end -->
+                    <!-- [Converted Leads] start -->
+                    <div class="col-xxl-3 col-md-6">
+                        <div class="card stretch stretch-full">
+                            <div class="card-body">
+                                <div class="d-flex align-items-start justify-content-between mb-4">
+                                    <div class="d-flex gap-4 align-items-center">
+                                        <div class="avatar-text avatar-lg bg-gray-200">
+                                            <i class="feather-cast"></i>
+                                        </div>
+                                        <div>
+                                            <div class="fs-4 fw-bold text-dark"><span class="counter">48</span>/<span class="counter">86</span></div>
+                                            <h3 class="fs-13 fw-semibold text-truncate-1-line">Converted Leads</h3>
+                                        </div>
+                                    </div>
+                                    <a href="javascript:void(0);" class="">
+                                        <i class="feather-more-vertical"></i>
+                                    </a>
+                                </div>
+                                <div class="pt-4">
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <a href="javascript:void(0);" class="fs-12 fw-medium text-muted text-truncate-1-line">Converted Leads </a>
+                                        <div class="w-100 text-end">
+                                            <span class="fs-12 text-dark">52 Completed</span>
+                                            <span class="fs-11 text-muted">(63%)</span>
+                                        </div>
+                                    </div>
+                                    <div class="progress mt-2 ht-3">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 63%"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Converted Leads] end -->
+                    <!-- [Projects In Progress] start -->
+                    <div class="col-xxl-3 col-md-6">
+                        <div class="card stretch stretch-full">
+                            <div class="card-body">
+                                <div class="d-flex align-items-start justify-content-between mb-4">
+                                    <div class="d-flex gap-4 align-items-center">
+                                        <div class="avatar-text avatar-lg bg-gray-200">
+                                            <i class="feather-briefcase"></i>
+                                        </div>
+                                        <div>
+                                            <div class="fs-4 fw-bold text-dark"><span class="counter">16</span>/<span class="counter">20</span></div>
+                                            <h3 class="fs-13 fw-semibold text-truncate-1-line">Projects In Progress</h3>
+                                        </div>
+                                    </div>
+                                    <a href="javascript:void(0);" class="">
+                                        <i class="feather-more-vertical"></i>
+                                    </a>
+                                </div>
+                                <div class="pt-4">
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <a href="javascript:void(0);" class="fs-12 fw-medium text-muted text-truncate-1-line">Projects In Progress </a>
+                                        <div class="w-100 text-end">
+                                            <span class="fs-12 text-dark">16 Completed</span>
+                                            <span class="fs-11 text-muted">(78%)</span>
+                                        </div>
+                                    </div>
+                                    <div class="progress mt-2 ht-3">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 78%"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Projects In Progress] end -->
+                    <!-- [Conversion Rate] start -->
+                    <div class="col-xxl-3 col-md-6">
+                        <div class="card stretch stretch-full">
+                            <div class="card-body">
+                                <div class="d-flex align-items-start justify-content-between mb-4">
+                                    <div class="d-flex gap-4 align-items-center">
+                                        <div class="avatar-text avatar-lg bg-gray-200">
+                                            <i class="feather-activity"></i>
+                                        </div>
+                                        <div>
+                                            <div class="fs-4 fw-bold text-dark"><span class="counter">46.59</span>%</div>
+                                            <h3 class="fs-13 fw-semibold text-truncate-1-line">Conversion Rate</h3>
+                                        </div>
+                                    </div>
+                                    <a href="javascript:void(0);" class="">
+                                        <i class="feather-more-vertical"></i>
+                                    </a>
+                                </div>
+                                <div class="pt-4">
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <a href="javascript:void(0);" class="fs-12 fw-medium text-muted text-truncate-1-line"> Conversion Rate </a>
+                                        <div class="w-100 text-end">
+                                            <span class="fs-12 text-dark">$2,254</span>
+                                            <span class="fs-11 text-muted">(46%)</span>
+                                        </div>
+                                    </div>
+                                    <div class="progress mt-2 ht-3">
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 46%"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Conversion Rate] end -->
+                    <!-- [Payment Records] start -->
+                    <div class="col-xxl-8">
+                        <div class="card stretch stretch-full">
+                            <div class="card-header">
+                                <h5 class="card-title">Payment Record</h5>
+                                <div class="card-header-action">
+                                    <div class="card-header-btn">
+                                        <div data-bs-toggle="tooltip" title="Delete">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-danger" data-bs-toggle="remove"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Refresh">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-warning" data-bs-toggle="refresh"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Maximize/Minimize">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-success" data-bs-toggle="expand"> </a>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <a href="javascript:void(0);" class="avatar-text avatar-sm" data-bs-toggle="dropdown" data-bs-offset="25, 25">
+                                            <div data-bs-toggle="tooltip" title="Options">
+                                                <i class="feather-more-vertical"></i>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-at-sign"></i>New</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-calendar"></i>Event</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-bell"></i>Snoozed</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-trash-2"></i>Deleted</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-settings"></i>Settings</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-life-buoy"></i>Tips & Tricks</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body custom-card-action p-0">
+                                <div id="payment-records-chart"></div>
+                            </div>
+                            <div class="card-footer">
+                                <div class="row g-4">
+                                    <div class="col-lg-3">
+                                        <div class="p-3 border border-dashed rounded">
+                                            <div class="fs-12 text-muted mb-1">Awaiting</div>
+                                            <h6 class="fw-bold text-dark">$5,486</h6>
+                                            <div class="progress mt-2 ht-3">
+                                                <div class="progress-bar bg-primary" role="progressbar" style="width: 81%"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <div class="p-3 border border-dashed rounded">
+                                            <div class="fs-12 text-muted mb-1">Completed</div>
+                                            <h6 class="fw-bold text-dark">$9,275</h6>
+                                            <div class="progress mt-2 ht-3">
+                                                <div class="progress-bar bg-success" role="progressbar" style="width: 82%"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <div class="p-3 border border-dashed rounded">
+                                            <div class="fs-12 text-muted mb-1">Rejected</div>
+                                            <h6 class="fw-bold text-dark">$3,868</h6>
+                                            <div class="progress mt-2 ht-3">
+                                                <div class="progress-bar bg-danger" role="progressbar" style="width: 68%"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <div class="p-3 border border-dashed rounded">
+                                            <div class="fs-12 text-muted mb-1">Revenue</div>
+                                            <h6 class="fw-bold text-dark">$50,668</h6>
+                                            <div class="progress mt-2 ht-3">
+                                                <div class="progress-bar bg-dark" role="progressbar" style="width: 75%"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Payment Records] end -->
+                    <!-- [Total Sales] start -->
+                    <div class="col-xxl-4">
+                        <div class="card stretch stretch-full overflow-hidden">
+                            <div class="bg-primary text-white">
+                                <div class="p-4">
+                                    <span class="badge bg-light text-primary text-dark float-end">12%</span>
+                                    <div class="text-start">
+                                        <h4 class="text-reset">30,569</h4>
+                                        <p class="text-reset m-0">Total Sales</p>
+                                    </div>
+                                </div>
+                                <div id="total-sales-color-graph"></div>
+                            </div>
+                            <div class="card-body">
+                                <div class="d-flex align-items-center justify-content-between">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image avatar-lg p-2 rounded">
+                                            <img class="img-fluid" src="vistas/assets/images/brand/shopify.png" alt="" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);" class="d-block">Shopify eCommerce Store</a>
+                                            <span class="fs-12 text-muted">Development</span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="fw-bold text-dark">$1200</div>
+                                        <div class="fs-12 text-end">6 Projects</div>
+                                    </div>
+                                </div>
+                                <hr class="border-dashed my-3" />
+                                <div class="d-flex align-items-center justify-content-between">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image avatar-lg p-2 rounded">
+                                            <img class="img-fluid" src="vistas/assets/images/brand/app-store.png" alt="" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);" class="d-block">iOS Apps Development</a>
+                                            <span class="fs-12 text-muted">Development</span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="fw-bold text-dark">$1450</div>
+                                        <div class="fs-12 text-end">3 Projects</div>
+                                    </div>
+                                </div>
+                                <hr class="border-dashed my-3" />
+                                <div class="d-flex align-items-center justify-content-between">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image avatar-lg p-2 rounded">
+                                            <img class="img-fluid" src="vistas/assets/images/brand/figma.png" alt="" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);" class="d-block">Figma Dashboard Design</a>
+                                            <span class="fs-12 text-muted">UI/UX Design</span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="fw-bold text-dark">$1250</div>
+                                        <div class="fs-12 text-end">5 Projects</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="javascript:void(0);" class="card-footer fs-11 fw-bold text-uppercase text-center py-4">Full Details</a>
+                        </div>
+                    </div>
+                    <!-- [Total Sales] end !-->
+                    <!-- [Mini] start -->
+                    <div class="col-lg-4">
+                        <div class="card mb-4 stretch stretch-full">
+                            <div class="card-header d-flex align-items-center justify-content-between">
+                                <div class="d-flex gap-3 align-items-center">
+                                    <div class="avatar-text">
+                                        <i class="feather feather-star"></i>
+                                    </div>
+                                    <div>
+                                        <div class="fw-semibold text-dark">Tasks Completed</div>
+                                        <div class="fs-12 text-muted">22/35 completed</div>
+                                    </div>
+                                </div>
+                                <div class="fs-4 fw-bold text-dark">22/35</div>
+                            </div>
+                            <div class="card-body d-flex align-items-center justify-content-between gap-4">
+                                <div id="task-completed-area-chart"></div>
+                                <div class="fs-12 text-muted text-nowrap">
+                                    <span class="fw-semibold text-primary">28% more</span><br />
+                                    <span>from last week</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card mb-4 stretch stretch-full">
+                            <div class="card-header d-flex align-items-center justify-content-between">
+                                <div class="d-flex gap-3 align-items-center">
+                                    <div class="avatar-text">
+                                        <i class="feather feather-file-text"></i>
+                                    </div>
+                                    <div>
+                                        <div class="fw-semibold text-dark">New Tasks</div>
+                                        <div class="fs-12 text-muted">0/20 tasks</div>
+                                    </div>
+                                </div>
+                                <div class="fs-4 fw-bold text-dark">5/20</div>
+                            </div>
+                            <div class="card-body d-flex align-items-center justify-content-between gap-4">
+                                <div id="new-tasks-area-chart"></div>
+                                <div class="fs-12 text-muted text-nowrap">
+                                    <span class="fw-semibold text-success">34% more</span><br />
+                                    <span>from last week</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card mb-4 stretch stretch-full">
+                            <div class="card-header d-flex align-items-center justify-content-between">
+                                <div class="d-flex gap-3 align-items-center">
+                                    <div class="avatar-text">
+                                        <i class="feather feather-airplay"></i>
+                                    </div>
+                                    <div>
+                                        <div class="fw-semibold text-dark">Project Done</div>
+                                        <div class="fs-12 text-muted">20/30 project</div>
+                                    </div>
+                                </div>
+                                <div class="fs-4 fw-bold text-dark">20/30</div>
+                            </div>
+                            <div class="card-body d-flex align-items-center justify-content-between gap-4">
+                                <div id="project-done-area-chart"></div>
+                                <div class="fs-12 text-muted text-nowrap">
+                                    <span class="fw-semibold text-danger">42% more</span><br />
+                                    <span>from last week</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Mini] end !-->
+                    <!-- [Leads Overview] start -->
+                    <div class="col-xxl-4">
+                        <div class="card stretch stretch-full">
+                            <div class="card-header">
+                                <h5 class="card-title">Leads Overview</h5>
+                                <div class="card-header-action">
+                                    <div class="card-header-btn">
+                                        <div data-bs-toggle="tooltip" title="Delete">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-danger" data-bs-toggle="remove"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Refresh">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-warning" data-bs-toggle="refresh"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Maximize/Minimize">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-success" data-bs-toggle="expand"> </a>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <a href="javascript:void(0);" class="avatar-text avatar-sm" data-bs-toggle="dropdown" data-bs-offset="25, 25">
+                                            <div data-bs-toggle="tooltip" title="Options">
+                                                <i class="feather-more-vertical"></i>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-at-sign"></i>New</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-calendar"></i>Event</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-bell"></i>Snoozed</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-trash-2"></i>Deleted</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-settings"></i>Settings</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-life-buoy"></i>Tips & Tricks</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body custom-card-action">
+                                <div id="leads-overview-donut"></div>
+                                <div class="row g-2">
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #3454d1"></span>
+                                            <span>New<span class="fs-10 text-muted ms-1">(20K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #0d519e"></span>
+                                            <span>Contacted<span class="fs-10 text-muted ms-1">(15K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #1976d2"></span>
+                                            <span>Qualified<span class="fs-10 text-muted ms-1">(10K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #1e88e5"></span>
+                                            <span>Working<span class="fs-10 text-muted ms-1">(18K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #2196f3"></span>
+                                            <span>Customer<span class="fs-10 text-muted ms-1">(10K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #42a5f5"></span>
+                                            <span>Proposal<span class="fs-10 text-muted ms-1">(15K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #64b5f6"></span>
+                                            <span>Leads<span class="fs-10 text-muted ms-1">(16K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #90caf9"></span>
+                                            <span>Progress<span class="fs-10 text-muted ms-1">(14K)</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="javascript:void(0);" class="p-2 hstack gap-2 rounded border border-dashed border-gray-5">
+                                            <span class="wd-7 ht-7 rounded-circle d-inline-block" style="background-color: #aad6fa"></span>
+                                            <span>Others<span class="fs-10 text-muted ms-1">(10K)</span></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Leads Overview] end -->
+                    <!-- [Latest Leads] start -->
+                    <div class="col-xxl-8">
+                        <div class="card stretch stretch-full">
+                            <div class="card-header">
+                                <h5 class="card-title">Latest Leads</h5>
+                                <div class="card-header-action">
+                                    <div class="card-header-btn">
+                                        <div data-bs-toggle="tooltip" title="Delete">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-danger" data-bs-toggle="remove"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Refresh">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-warning" data-bs-toggle="refresh"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Maximize/Minimize">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-success" data-bs-toggle="expand"> </a>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <a href="javascript:void(0);" class="avatar-text avatar-sm" data-bs-toggle="dropdown" data-bs-offset="25, 25">
+                                            <div data-bs-toggle="tooltip" title="Options">
+                                                <i class="feather-more-vertical"></i>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-at-sign"></i>New</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-calendar"></i>Event</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-bell"></i>Snoozed</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-trash-2"></i>Deleted</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-settings"></i>Settings</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-life-buoy"></i>Tips & Tricks</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body custom-card-action p-0">
+                                <div class="table-responsive">
+                                    <table class="table table-hover mb-0">
+                                        <thead>
+                                            <tr class="border-b">
+                                                <th scope="row">Users</th>
+                                                <th>Proposal</th>
+                                                <th>Date</th>
+                                                <th>Status</th>
+                                                <th class="text-end">Actions</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-flex align-items-center gap-3">
+                                                        <div class="avatar-image">
+                                                            <img src="vistas/assets/images/avatar/2.png" alt="" class="img-fluid" />
+                                                        </div>
+                                                        <a href="javascript:void(0);">
+                                                            <span class="d-block">Archie Cantones</span>
+                                                            <span class="fs-12 d-block fw-normal text-muted">arcie.tones@gmail.com</span>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <span class="badge bg-gray-200 text-dark">Sent</span>
+                                                </td>
+                                                <td>11/06/2023 10:53</td>
+                                                <td>
+                                                    <span class="badge bg-soft-success text-success">Completed</span>
+                                                </td>
+                                                <td class="text-end">
+                                                    <a href="javascript:void(0);"><i class="feather-more-vertical"></i></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-flex align-items-center gap-3">
+                                                        <div class="avatar-image">
+                                                            <img src="vistas/assets/images/avatar/3.png" alt="" class="img-fluid" />
+                                                        </div>
+                                                        <a href="javascript:void(0);">
+                                                            <span class="d-block">Holmes Cherryman</span>
+                                                            <span class="fs-12 d-block fw-normal text-muted">golms.chan@gmail.com</span>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <span class="badge bg-gray-200 text-dark">New</span>
+                                                </td>
+                                                <td>11/06/2023 10:53</td>
+                                                <td>
+                                                    <span class="badge bg-soft-primary text-primary">In Progress </span>
+                                                </td>
+                                                <td class="text-end">
+                                                    <a href="javascript:void(0);"><i class="feather-more-vertical"></i></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-flex align-items-center gap-3">
+                                                        <div class="avatar-image">
+                                                            <img src="vistas/assets/images/avatar/4.png" alt="" class="img-fluid" />
+                                                        </div>
+                                                        <a href="javascript:void(0);">
+                                                            <span class="d-block">Malanie Hanvey</span>
+                                                            <span class="fs-12 d-block fw-normal text-muted">lanie.nveyn@gmail.com</span>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <span class="badge bg-gray-200 text-dark">Sent</span>
+                                                </td>
+                                                <td>11/06/2023 10:53</td>
+                                                <td>
+                                                    <span class="badge bg-soft-success text-success">Completed</span>
+                                                </td>
+                                                <td class="text-end">
+                                                    <a href="javascript:void(0);"><i class="feather-more-vertical"></i></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-flex align-items-center gap-3">
+                                                        <div class="avatar-image">
+                                                            <img src="vistas/assets/images/avatar/5.png" alt="" class="img-fluid" />
+                                                        </div>
+                                                        <a href="javascript:void(0);">
+                                                            <span class="d-block">Kenneth Hune</span>
+                                                            <span class="fs-12 d-block fw-normal text-muted">nneth.une@gmail.com</span>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <span class="badge bg-gray-200 text-dark">Returning</span>
+                                                </td>
+                                                <td>11/06/2023 10:53</td>
+                                                <td>
+                                                    <span class="badge bg-soft-warning text-warning">Not Interested</span>
+                                                </td>
+                                                <td class="text-end">
+                                                    <a href="javascript:void(0);"><i class="feather-more-vertical"></i></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-flex align-items-center gap-3">
+                                                        <div class="avatar-image">
+                                                            <img src="vistas/assets/images/avatar/6.png" alt="" class="img-fluid" />
+                                                        </div>
+                                                        <a href="javascript:void(0);">
+                                                            <span class="d-block">Valentine Maton</span>
+                                                            <span class="fs-12 d-block fw-normal text-muted">alenine.aton@gmail.com</span>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <span class="badge bg-gray-200 text-dark">Sent</span>
+                                                </td>
+                                                <td>11/06/2023 10:53</td>
+                                                <td>
+                                                    <span class="badge bg-soft-success text-success">Completed</span>
+                                                </td>
+                                                <td class="text-end">
+                                                    <a href="javascript:void(0);"><i class="feather-more-vertical"></i></a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <ul class="list-unstyled d-flex align-items-center gap-2 mb-0 pagination-common-style">
+                                    <li>
+                                        <a href="javascript:void(0);"><i class="bi bi-arrow-left"></i></a>
+                                    </li>
+                                    <li><a href="javascript:void(0);" class="active">1</a></li>
+                                    <li><a href="javascript:void(0);">2</a></li>
+                                    <li>
+                                        <a href="javascript:void(0);"><i class="bi bi-dot"></i></a>
+                                    </li>
+                                    <li><a href="javascript:void(0);">8</a></li>
+                                    <li><a href="javascript:void(0);">9</a></li>
+                                    <li>
+                                        <a href="javascript:void(0);"><i class="bi bi-arrow-right"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [Latest Leads] end -->
+                    <!--! BEGIN: [Upcoming Schedule] !-->
+                    <div class="col-xxl-4">
+                        <div class="card stretch stretch-full">
+                            <div class="card-header">
+                                <h5 class="card-title">Upcoming Schedule</h5>
+                                <div class="card-header-action">
+                                    <div class="card-header-btn">
+                                        <div data-bs-toggle="tooltip" title="Delete">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-danger" data-bs-toggle="remove"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Refresh">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-warning" data-bs-toggle="refresh"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Maximize/Minimize">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-success" data-bs-toggle="expand"> </a>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <a href="javascript:void(0);" class="avatar-text avatar-sm" data-bs-toggle="dropdown" data-bs-offset="25, 25">
+                                            <div data-bs-toggle="tooltip" title="Options">
+                                                <i class="feather-more-vertical"></i>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-at-sign"></i>New</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-calendar"></i>Event</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-bell"></i>Snoozed</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-trash-2"></i>Deleted</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-settings"></i>Settings</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-life-buoy"></i>Tips & Tricks</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <!--! BEGIN: [Events] !-->
+                                <div class="p-3 border border-dashed rounded-3 mb-3">
+                                    <div class="d-flex justify-content-between">
+                                        <div class="d-flex align-items-center gap-3">
+                                            <div class="wd-50 ht-50 bg-soft-primary text-primary lh-1 d-flex align-items-center justify-content-center flex-column rounded-2 schedule-date">
+                                                <span class="fs-18 fw-bold mb-1 d-block">20</span>
+                                                <span class="fs-10 fw-semibold text-uppercase d-block">Dec</span>
+                                            </div>
+                                            <div class="text-dark">
+                                                <a href="javascript:void(0);" class="fw-bold mb-2 text-truncate-1-line">React Dashboard Design</a>
+                                                <span class="fs-11 fw-normal text-muted text-truncate-1-line">11:30am - 12:30pm</span>
+                                            </div>
+                                        </div>
+                                        <div class="img-group lh-0 ms-3 justify-content-start d-none d-sm-flex">
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Janette Dalton">
+                                                <img src="vistas/assets/images/avatar/2.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Michael Ksen">
+                                                <img src="vistas/assets/images/avatar/3.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Socrates Itumay">
+                                                <img src="vistas/assets/images/avatar/4.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Marianne Audrey">
+                                                <img src="vistas/assets/images/avatar/6.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-text avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Explorer More">
+                                                <i class="feather-more-horizontal"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--! BEGIN: [Events] !-->
+                                <div class="p-3 border border-dashed rounded-3 mb-3">
+                                    <div class="d-flex justify-content-between">
+                                        <div class="d-flex align-items-center gap-3">
+                                            <div class="wd-50 ht-50 bg-soft-warning text-warning lh-1 d-flex align-items-center justify-content-center flex-column rounded-2 schedule-date">
+                                                <span class="fs-18 fw-bold mb-1 d-block">30</span>
+                                                <span class="fs-10 fw-semibold text-uppercase d-block">Dec</span>
+                                            </div>
+                                            <div class="text-dark">
+                                                <a href="javascript:void(0);" class="fw-bold mb-2 text-truncate-1-line">Admin Design Concept</a>
+                                                <span class="fs-11 fw-normal text-muted text-truncate-1-line">10:00am - 12:00pm</span>
+                                            </div>
+                                        </div>
+                                        <div class="img-group lh-0 ms-3 justify-content-start d-none d-sm-flex">
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Janette Dalton">
+                                                <img src="vistas/assets/images/avatar/2.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Michael Ksen">
+                                                <img src="vistas/assets/images/avatar/3.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Marianne Audrey">
+                                                <img src="vistas/assets/images/avatar/5.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Marianne Audrey">
+                                                <img src="vistas/assets/images/avatar/6.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-text avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Explorer More">
+                                                <i class="feather-more-horizontal"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--! BEGIN: [Events] !-->
+                                <div class="p-3 border border-dashed rounded-3 mb-3">
+                                    <div class="d-flex justify-content-between">
+                                        <div class="d-flex align-items-center gap-3">
+                                            <div class="wd-50 ht-50 bg-soft-success text-success lh-1 d-flex align-items-center justify-content-center flex-column rounded-2 schedule-date">
+                                                <span class="fs-18 fw-bold mb-1 d-block">17</span>
+                                                <span class="fs-10 fw-semibold text-uppercase d-block">Dec</span>
+                                            </div>
+                                            <div class="text-dark">
+                                                <a href="javascript:void(0);" class="fw-bold mb-2 text-truncate-1-line">Standup Team Meeting</a>
+                                                <span class="fs-11 fw-normal text-muted text-truncate-1-line">8:00am - 9:00am</span>
+                                            </div>
+                                        </div>
+                                        <div class="img-group lh-0 ms-3 justify-content-start d-none d-sm-flex">
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Janette Dalton">
+                                                <img src="vistas/assets/images/avatar/2.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Michael Ksen">
+                                                <img src="vistas/assets/images/avatar/3.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Socrates Itumay">
+                                                <img src="vistas/assets/images/avatar/4.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Marianne Audrey">
+                                                <img src="vistas/assets/images/avatar/5.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-text avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Explorer More">
+                                                <i class="feather-more-horizontal"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--! BEGIN: [Events] !-->
+                                <div class="p-3 border border-dashed rounded-3 mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <div class="d-flex align-items-center gap-3">
+                                            <div class="wd-50 ht-50 bg-soft-danger text-danger lh-1 d-flex align-items-center justify-content-center flex-column rounded-2 schedule-date">
+                                                <span class="fs-18 fw-bold mb-1 d-block">25</span>
+                                                <span class="fs-10 fw-semibold text-uppercase d-block">Dec</span>
+                                            </div>
+                                            <div class="text-dark">
+                                                <a href="javascript:void(0);" class="fw-bold mb-2 text-truncate-1-line">Zoom Team Meeting</a>
+                                                <span class="fs-11 fw-normal text-muted text-truncate-1-line">03:30pm - 05:30pm</span>
+                                            </div>
+                                        </div>
+                                        <div class="img-group lh-0 ms-3 justify-content-start d-none d-sm-flex">
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Janette Dalton">
+                                                <img src="vistas/assets/images/avatar/2.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Socrates Itumay">
+                                                <img src="vistas/assets/images/avatar/4.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Marianne Audrey">
+                                                <img src="vistas/assets/images/avatar/5.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-image avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Marianne Audrey">
+                                                <img src="vistas/assets/images/avatar/6.png" class="img-fluid" alt="image" />
+                                            </a>
+                                            <a href="javascript:void(0)" class="avatar-text avatar-md" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Explorer More">
+                                                <i class="feather-more-horizontal"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="javascript:void(0);" class="card-footer fs-11 fw-bold text-uppercase text-center py-4">Upcomming Schedule</a>
+                        </div>
+                    </div>
+                    <!--! END: [Upcoming Schedule] !-->
+                    <!--! BEGIN: [Project Status] !-->
+                    <div class="col-xxl-4">
+                        <div class="card stretch stretch-full">
+                            <div class="card-header">
+                                <h5 class="card-title">Project Status</h5>
+                                <div class="card-header-action">
+                                    <div class="card-header-btn">
+                                        <div data-bs-toggle="tooltip" title="Delete">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-danger" data-bs-toggle="remove"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Refresh">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-warning" data-bs-toggle="refresh"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Maximize/Minimize">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-success" data-bs-toggle="expand"> </a>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <a href="javascript:void(0);" class="avatar-text avatar-sm" data-bs-toggle="dropdown" data-bs-offset="25, 25">
+                                            <div data-bs-toggle="tooltip" title="Options">
+                                                <i class="feather-more-vertical"></i>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-at-sign"></i>New</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-calendar"></i>Event</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-bell"></i>Snoozed</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-trash-2"></i>Deleted</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-settings"></i>Settings</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-life-buoy"></i>Tips & Tricks</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body custom-card-action">
+                                <div class="mb-3">
+                                    <div class="mb-4 pb-1 d-flex">
+                                        <div class="d-flex w-50 align-items-center me-3">
+                                            <img src="vistas/assets/images/brand/app-store.png" alt="laravel-logo" class="me-3" width="35" />
+                                            <div>
+                                                <a href="javascript:void(0);" class="text-truncate-1-line">Apps Development</a>
+                                                <div class="fs-11 text-muted">Applications</div>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-grow-1 align-items-center">
+                                            <div class="progress w-100 me-3 ht-5">
+                                                <div class="progress-bar bg-danger" role="progressbar" style="width: 54%" aria-valuenow="54" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                            <span class="text-muted">54%</span>
+                                        </div>
+                                    </div>
+                                    <hr class="border-dashed my-3" />
+                                    <div class="mb-4 pb-1 d-flex">
+                                        <div class="d-flex w-50 align-items-center me-3">
+                                            <img src="vistas/assets/images/brand/figma.png" alt="figma-logo" class="me-3" width="35" />
+                                            <div>
+                                                <a href="javascript:void(0);" class="text-truncate-1-line">Dashboard Design</a>
+                                                <div class="fs-11 text-muted">App UI Kit</div>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-grow-1 align-items-center">
+                                            <div class="progress w-100 me-3 ht-5">
+                                                <div class="progress-bar bg-primary" role="progressbar" style="width: 86%" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                            <span class="text-muted">86%</span>
+                                        </div>
+                                    </div>
+                                    <hr class="border-dashed my-3" />
+                                    <div class="mb-4 pb-1 d-flex">
+                                        <div class="d-flex w-50 align-items-center me-3">
+                                            <img src="vistas/assets/images/brand/facebook.png" alt="vue-logo" class="me-3" width="35" />
+                                            <div>
+                                                <a href="javascript:void(0);" class="text-truncate-1-line">Facebook Marketing</a>
+                                                <div class="fs-11 text-muted">Marketing</div>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-grow-1 align-items-center">
+                                            <div class="progress w-100 me-3 ht-5">
+                                                <div class="progress-bar bg-success" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                            <span class="text-muted">90%</span>
+                                        </div>
+                                    </div>
+                                    <hr class="border-dashed my-3" />
+                                    <div class="mb-4 pb-1 d-flex">
+                                        <div class="d-flex w-50 align-items-center me-3">
+                                            <img src="vistas/assets/images/brand/github.png" alt="react-logo" class="me-3" width="35" />
+                                            <div>
+                                                <a href="javascript:void(0);" class="text-truncate-1-line">React Dashboard Github</a>
+                                                <div class="fs-11 text-muted">Dashboard</div>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-grow-1 align-items-center">
+                                            <div class="progress w-100 me-3 ht-5">
+                                                <div class="progress-bar bg-info" role="progressbar" style="width: 37%" aria-valuenow="37" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                            <span class="text-muted">37%</span>
+                                        </div>
+                                    </div>
+                                    <hr class="border-dashed my-3" />
+                                    <div class="d-flex">
+                                        <div class="d-flex w-50 align-items-center me-3">
+                                            <img src="vistas/assets/images/brand/paypal.png" alt="sketch-logo" class="me-3" width="35" />
+                                            <div>
+                                                <a href="javascript:void(0);" class="text-truncate-1-line">Paypal Payment Gateway</a>
+                                                <div class="fs-11 text-muted">Payment</div>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-grow-1 align-items-center">
+                                            <div class="progress w-100 me-3 ht-5">
+                                                <div class="progress-bar bg-warning" role="progressbar" style="width: 29%" aria-valuenow="29" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                            <span class="text-muted">29%</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="javascript:void(0);" class="card-footer fs-11 fw-bold text-uppercase text-center">Upcomming Projects</a>
+                        </div>
+                    </div>
+                    <!--! END: [Project Status] !-->
+                    <!--! BEGIN: [Team Progress] !-->
+                    <div class="col-xxl-4">
+                        <div class="card stretch stretch-full">
+                            <div class="card-header">
+                                <h5 class="card-title">Team Progress</h5>
+                                <div class="card-header-action">
+                                    <div class="card-header-btn">
+                                        <div data-bs-toggle="tooltip" title="Delete">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-danger" data-bs-toggle="remove"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Refresh">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-warning" data-bs-toggle="refresh"> </a>
+                                        </div>
+                                        <div data-bs-toggle="tooltip" title="Maximize/Minimize">
+                                            <a href="javascript:void(0);" class="avatar-text avatar-xs bg-success" data-bs-toggle="expand"> </a>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <a href="javascript:void(0);" class="avatar-text avatar-sm" data-bs-toggle="dropdown" data-bs-offset="25, 25">
+                                            <div data-bs-toggle="tooltip" title="Options">
+                                                <i class="feather-more-vertical"></i>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-at-sign"></i>New</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-calendar"></i>Event</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-bell"></i>Snoozed</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-trash-2"></i>Deleted</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-settings"></i>Settings</a>
+                                            <a href="javascript:void(0);" class="dropdown-item"><i class="feather-life-buoy"></i>Tips & Tricks</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body custom-card-action">
+                                <div class="hstack justify-content-between border border-dashed rounded-3 p-3 mb-3">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image">
+                                            <img src="vistas/assets/images/avatar/1.png" alt="" class="img-fluid" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);">Alexandra Della</a>
+                                            <div class="fs-11 text-muted">Frontend Developer</div>
+                                        </div>
+                                    </div>
+                                    <div class="team-progress-1"></div>
+                                </div>
+                                <div class="hstack justify-content-between border border-dashed rounded-3 p-3 mb-3">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image">
+                                            <img src="vistas/assets/images/avatar/2.png" alt="" class="img-fluid" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);">Archie Cantones</a>
+                                            <div class="fs-11 text-muted">UI/UX Designer</div>
+                                        </div>
+                                    </div>
+                                    <div class="team-progress-2"></div>
+                                </div>
+                                <div class="hstack justify-content-between border border-dashed rounded-3 p-3 mb-3">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image">
+                                            <img src="vistas/assets/images/avatar/3.png" alt="" class="img-fluid" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);">Malanie Hanvey</a>
+                                            <div class="fs-11 text-muted">Backend Developer</div>
+                                        </div>
+                                    </div>
+                                    <div class="team-progress-3"></div>
+                                </div>
+                                <div class="hstack justify-content-between border border-dashed rounded-3 p-3 mb-2">
+                                    <div class="hstack gap-3">
+                                        <div class="avatar-image">
+                                            <img src="vistas/assets/images/avatar/4.png" alt="" class="img-fluid" />
+                                        </div>
+                                        <div>
+                                            <a href="javascript:void(0);">Kenneth Hune</a>
+                                            <div class="fs-11 text-muted">Digital Marketer</div>
+                                        </div>
+                                    </div>
+                                    <div class="team-progress-4"></div>
+                                </div>
+                            </div>
+                            <a href="javascript:void(0);" class="card-footer fs-11 fw-bold text-uppercase text-center">Update 30 Min Ago</a>
+                        </div>
+                    </div>
+                    <!--! END: [Team Progress] !-->
+                </div>
             </div>
             <!-- [ Main Content ] end -->
         </div>
+        <!-- [ Footer ] start -->
+        <footer class="footer">
+            <p class="fs-11 text-muted fw-medium text-uppercase mb-0 copyright">
+                <span>Copyright ©</span>
+                <script>
+                    document.write(new Date().getFullYear());
+                </script>
+            </p>
+            <p><span>By: <a target="_blank" href="https://wrapbootstrap.com/user/theme_ocean" target="_blank">theme_ocean</a></span> • <span>Distributed by: <a target="_blank" href="https://themewagon.com" target="_blank">ThemeWagon</a></span></p>
+            <div class="d-flex align-items-center gap-4">
+                <a href="javascript:void(0);" class="fs-11 fw-semibold text-uppercase">Help</a>
+                <a href="javascript:void(0);" class="fs-11 fw-semibold text-uppercase">Terms</a>
+                <a href="javascript:void(0);" class="fs-11 fw-semibold text-uppercase">Privacy</a>
+            </div>
+        </footer>
+        <!-- [ Footer ] end -->
     </main>
     <!--! ================================================================ !-->
     <!--! [End] Main Content !-->
-    <!--! ================================================================ !-->
-    <!--! ================================================================ !-->
-    <!--! BEGIN: Compose Mail Modal !-->
-    <!--! ================================================================ !-->
-    <div class="modal fade-scale" id="composeMail" tabindex="-1" aria-labelledby="composeMail" aria-hidden="true" data-bs-dismiss="ou">
-        <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
-            <div class="modal-content">
-                <!--! BEGIN: [modal-header] !-->
-                <div class="modal-header">
-                    <h2 class="d-flex flex-column mb-0">
-                        <span class="fs-18 fw-bold mb-1">Compose Mail</span>
-                        <small class="d-block fs-11 fw-normal text-muted">Compose Your Message</small>
-                    </h2>
-                    <a href="javascript:void(0)" class="avatar-text avatar-md bg-soft-danger close-icon" data-bs-dismiss="modal">
-                        <i class="feather-x text-danger"></i>
-                    </a>
-                </div>
-                <!--! BEGIN: [modal-body] !-->
-                <div class="modal-body p-0">
-                    <div class="position-relative border-bottom">
-                        <div class="px-2 d-flex align-items-center">
-                            <div class="p-0 w-100">
-                                <input class="form-control border-0 text-dark" name="tomailmodal" placeholder="TO">
-                            </div>
-                        </div>
-                        <a href="javascript:void(0)" class="position-absolute top-50 end-0 translate-middle badge bg-gray-100 border border-gray-3 fs-10 fw-semibold text-uppercase text-dark rounded-pill c-pointer z-index-100" id="ccbccToggleModal"><span data-bs-toggle="tooltip" data-bs-trigger="hover" title="CC / BCC" style="font-size: 9px !important">CC / BCC</span></a>
-                    </div>
-                    <div class="border-bottom mail-cc-bcc-fields" id="ccbccToggleModalFileds" style="display: none">
-                        <div class="px-2 w-100 d-flex align-items-center border-bottom">
-                            <input class="form-control border-0 text-dark" name="ccmailmodal" placeholder="CC">
-                        </div>
-                        <div class="px-2 w-100 d-flex align-items-center">
-                            <input class="form-control border-0 text-dark" name="bccmailmodal" placeholder="BCC">
-                        </div>
-                    </div>
-                    <div class="px-3 w-100 d-flex align-items-center">
-                        <input class="form-control border-0 my-1 w-100 shadow-none" type="email" placeholder="Subject">
-                    </div>
-                    <div class="editor w-100 m-0">
-                        <div class="ht-300 border-bottom-0" id="mailEditorModal"></div>
-                    </div>
-                </div>
-                <!--! BEGIN: [modal-footer] !-->
-                <div class="modal-footer d-flex align-items-center justify-content-between">
-                    <!--! BEGIN: [mail-editor-action-left] !-->
-                    <div class="d-flex align-items-center">
-                        <div class="dropdown me-2">
-                            <a href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-offset="0, 0">
-                                <span class="btn btn-primary dropdown-toggle" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Send Message"> Send </span>
-                            </a>
-                            <div class="dropdown-menu">
-                                <a href="javascript:void(0)" class="dropdown-item" data-action-target="#mailActionMessage">
-                                    <i class="feather-send me-3"></i>
-                                    <span>Instant Send</span>
-                                </a>
-                                <a href="javascript:void(0);" class="dropdown-item successAlertMessage">
-                                    <i class="feather-clock me-3"></i>
-                                    <span>Schedule Send</span>
-                                </a>
-                                <div class="dropdown-divider"></div>
-                                <a href="javascript:void(0)" class="dropdown-item successAlertMessage">
-                                    <i class="feather-x me-3"></i>
-                                    <span>Discard Now</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item successAlertMessage">
-                                    <i class="feather-edit-3 me-3"></i>
-                                    <span>Save as Draft</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="dropdown me-2 d-none d-sm-block">
-                            <a href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-offset="0, 0">
-                                <span class="btn btn-icon" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Pick Template">
-                                    <i class="feather-hash"></i>
-                                </span>
-                            </a>
-                            <div class="dropdown-menu wd-300">
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Welcome you message</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Your issues solved</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Thank you message</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Make a offer message</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Add the Unsubscribe option</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Thank your customer for joining</span>
-                                </a>
-                                <div class="dropdown-divider"></div>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-save me-3"></i>
-                                    <span>Save as Template</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-sun me-3"></i>
-                                    <span>Manage Template</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="dropdown">
-                            <a href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-offset="0, 0">
-                                <span class="btn btn-icon" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Upload Attachments">
-                                    <i class="feather-upload"></i>
-                                </span>
-                            </a>
-                            <div class="dropdown-menu">
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-image me-3"></i>
-                                    <span>Upload Images</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-video me-3"></i>
-                                    <span>Upload Videos</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-mic me-3"></i>
-                                    <span>Upload Musics</span>
-                                </a>
-                                <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="feather-file-text me-3"></i>
-                                    <span>Upload Documents</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--! BEGIN: [mail-editor-action-right] !-->
-                    <div class="d-flex align-items-center">
-                        <div class="dropdown me-2">
-                            <a href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-offset="0, 0">
-                                <span class="btn btn-icon" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Editing Actions">
-                                    <i class="feather-more-horizontal"></i>
-                                </span>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a href="javascript:void(0)" class="dropdown-item">
-                                        <i class="feather-type me-3"></i>
-                                        <span>Plain Text Mode</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="dropdown-item">
-                                        <i class="feather-check me-3"></i>
-                                        <span>Check Spelling</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="dropdown-item">
-                                        <i class="feather-compass me-3"></i>
-                                        <span>Smart Compose</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="dropdown-item">
-                                        <i class="feather-feather me-3"></i>
-                                        <span>Manage Signature</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <a href="javascript:void(0);" data-bs-dismiss="modal">
-                            <span class="btn btn-icon" data-bs-toggle="tooltip" data-bs-trigger="hover" title="Delete Message">
-                                <i class="feather-x"></i>
-                            </span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--! ================================================================ !-->
-    <!--! END: Compose Mail Modal !-->
-    <!--! ================================================================ !-->
-    <!--! ================================================================ !-->
-    <!--! [Start] Search Modal !-->
-    <!--! ================================================================ !-->
-    <div class="modal fade-scale" id="searchModal" aria-hidden="true" tabindex="-1">
-        <div class="modal-dialog modal-lg modal-dialog-top modal-dialog-scrollable">
-            <div class="modal-content">
-                <div class="modal-header search-form py-0">
-                    <div class="input-group">
-                        <span class="input-group-text">
-                            <i class="feather-search fs-4 text-muted"></i>
-                        </span>
-                        <input type="text" class="form-control search-input-field" placeholder="Search...">
-                        <span class="input-group-text">
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </span>
-                    </div>
-                </div>
-                <div class="modal-body">
-                    <div class="searching-for mb-5">
-                        <h4 class="fs-13 fw-normal text-gray-600 mb-3">I'm searching for...</h4>
-                        <div class="row g-1">
-                            <div class="col-md-4 col-xl-2">
-                                <a href="javascript:void(0);" class="d-flex align-items-center gap-2 px-3 lh-lg border rounded-pill">
-                                    <i class="feather-compass"></i>
-                                    <span>Recent</span>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-xl-2">
-                                <a href="javascript:void(0);" class="d-flex align-items-center gap-2 px-3 lh-lg border rounded-pill">
-                                    <i class="feather-command"></i>
-                                    <span>Command</span>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-xl-2">
-                                <a href="javascript:void(0);" class="d-flex align-items-center gap-2 px-3 lh-lg border rounded-pill">
-                                    <i class="feather-users"></i>
-                                    <span>Peoples</span>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-xl-2">
-                                <a href="javascript:void(0);" class="d-flex align-items-center gap-2 px-3 lh-lg border rounded-pill">
-                                    <i class="feather-file"></i>
-                                    <span>Files</span>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-xl-2">
-                                <a href="javascript:void(0);" class="d-flex align-items-center gap-2 px-3 lh-lg border rounded-pill">
-                                    <i class="feather-video"></i>
-                                    <span>Medias</span>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-xl-2">
-                                <a href="javascript:void(0);" class="d-flex align-items-center gap-2 px-3 lh-lg border rounded-pill">
-                                    <span>More</span>
-                                    <i class="feather-chevron-down"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="recent-result mb-5">
-                        <h4 class="fs-13 fw-normal text-gray-600 mb-3">Recnet <span class="badge small bg-gray-200 rounded ms-1 text-dark">3</span></h4>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-airplay fs-5"></i>
-                                <div class="fs-13 fw-semibold">CRM dashboard redesign</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">/<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-file-plus fs-5"></i>
-                                <div class="fs-13 fw-semibold">Create new eocument</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">N /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-user-plus fs-5"></i>
-                                <div class="fs-13 fw-semibold">Invite project colleagues</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">P /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                    </div>
-                    <div class="command-result mb-5">
-                        <h4 class="fs-13 fw-normal text-gray-600 mb-3">Command <span class="badge small bg-gray-200 rounded ms-1 text-dark">5</span></h4>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-user fs-5"></i>
-                                <div class="fs-13 fw-semibold">My profile</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">P /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-users fs-5"></i>
-                                <div class="fs-13 fw-semibold">Team profile</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">T /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-user-plus fs-5"></i>
-                                <div class="fs-13 fw-semibold">Invite colleagues</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">I /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-briefcase fs-5"></i>
-                                <div class="fs-13 fw-semibold">Create new project</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">CP /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-life-buoy fs-5"></i>
-                                <div class="fs-13 fw-semibold">Support center</div>
-                            </a>
-                            <a href="javascript:void(0);" class="badge border rounded text-dark">SC /<i class="feather-command ms-1 fs-12"></i></a>
-                        </div>
-                    </div>
-                    <div class="file-result mb-4">
-                        <h4 class="fs-13 fw-normal text-gray-600 mb-3">Files <span class="badge small bg-gray-200 rounded ms-1 text-dark">3</span></h4>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-folder-plus fs-5"></i>
-                                <div class="fs-13 fw-semibold">CRM Desing Project <span class="fs-12 fw-normal text-muted">(56.74 MB)</span></div>
-                            </a>
-                            <a href="javascript:void(0);" class="file-download"><i class="feather-download"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-folder-plus fs-5"></i>
-                                <div class="fs-13 fw-semibold">Admin Dashboard Project <span class="fs-12 fw-normal text-muted">(46.83 MB)</span></div>
-                            </a>
-                            <a href="javascript:void(0);" class="file-download"><i class="feather-download"></i></a>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between">
-                            <a href="javascript:void(0);" class="d-flex align-items-start gap-3">
-                                <i class="feather-folder-plus fs-5"></i>
-                                <div class="fs-13 fw-semibold">CRM Dashboard Project <span class="fs-12 fw-normal text-muted">(68.59 MB)</span></div>
-                            </a>
-                            <a href="javascript:void(0);" class="file-download"><i class="feather-download"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--! ================================================================ !-->
-    <!--! [End] Search Modal !-->
-    <!--! ================================================================ !-->
-    <!--! ================================================================ !-->
-    <!--! [Start] Language Select !-->
-    <!--! ================================================================ !-->
-    <div class="modal fade-scale" id="languageSelectModal" aria-hidden="true" aria-labelledby="languageSelectModalLabel" tabindex="-1">
-        <div class="modal-dialog modal-lg modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="languageSelectModalLabel">Select Language</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="row">
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/sa.svg" alt="" class="img-fluid"></div>
-                                <span>Arabic </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/bd.svg" alt="" class="img-fluid"></div>
-                                <span>Bengali </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/ch.svg" alt="" class="img-fluid"></div>
-                                <span>Chinese </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/hr.svg" alt="" class="img-fluid"></div>
-                                <span>Croatian </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/dk.svg" alt="" class="img-fluid"></div>
-                                <span>Danish </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/nl.svg" alt="" class="img-fluid"></div>
-                                <span>Dutch </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select active">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/us.svg" alt="" class="img-fluid"></div>
-                                <span>English </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/fi.svg" alt="" class="img-fluid"></div>
-                                <span>Filipino </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/fr.svg" alt="" class="img-fluid"></div>
-                                <span>French </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/de.svg" alt="" class="img-fluid"></div>
-                                <span>German </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/il.svg" alt="" class="img-fluid"></div>
-                                <span>Hebrew </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/in.svg" alt="" class="img-fluid"></div>
-                                <span>Hindi </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/id.svg" alt="" class="img-fluid"></div>
-                                <span>Indonesian </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/it.svg" alt="" class="img-fluid"></div>
-                                <span>Italian </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/jp.svg" alt="" class="img-fluid"></div>
-                                <span>Japanese </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/kr.svg" alt="" class="img-fluid"></div>
-                                <span>Korean </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/ir.svg" alt="" class="img-fluid"></div>
-                                <span>Persian </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/pt.svg" alt="" class="img-fluid"></div>
-                                <span>Portuguese </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/ru.svg" alt="" class="img-fluid"></div>
-                                <span>Russian </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/es.svg" alt="" class="img-fluid"></div>
-                                <span>Spanish </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/sv.svg" alt="" class="img-fluid"></div>
-                                <span>Swedish </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/tr.svg" alt="" class="img-fluid"></div>
-                                <span>Turkish </span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/pk.svg" alt="" class="img-fluid"></div>
-                                <span>Urdo</span>
-                            </a>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-3 language_select">
-                            <a href="javascript:void(0);" class="d-flex align-items-center gap-2">
-                                <div class="avatar-image avatar-sm"><img src="assets/vendors/img/flags/1x1/vi.svg" alt="" class="img-fluid"></div>
-                                <span>Vietnamese</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--! ================================================================ !-->
-    <!--! [End] Language Select !-->
-    <!--! ================================================================ !-->
-    <!--! ================================================================ !-->
-    <!--! BEGIN: Downloading Toast !-->
-    <!--! ================================================================ !-->
-    <div class="position-fixed" style="right: 5px; bottom: 5px; z-index: 999999">
-        <div id="toast" class="toast bg-black hide" data-bs-delay="3000" role="alert" aria-live="assertive" aria-atomic="true">
-            <div class="toast-header px-3 bg-transparent d-flex align-items-center justify-content-between border-bottom border-light border-opacity-10">
-                <div class="text-white mb-0 mr-auto">Downloading...</div>
-                <a href="javascript:void(0)" class="ms-2 mb-1 close fw-normal" data-bs-dismiss="toast" aria-label="Close">
-                    <span class="text-white">&times;</span>
-                </a>
-            </div>
-            <div class="toast-body p-3 text-white">
-                <h6 class="fs-13 text-white">Project.zip</h6>
-                <span class="text-light fs-11">4.2mb of 5.5mb</span>
-            </div>
-            <div class="toast-footer p-3 pt-0 border-top border-light border-opacity-10">
-                <div class="progress mt-3" style="height: 5px">
-                    <div class="progress-bar progress-bar-striped progress-bar-animated w-75 bg-dark" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--! ================================================================ !-->
-    <!--! END: Downloading Toast !-->
     <!--! ================================================================ !-->
     <!--! ================================================================ !-->
     <!--! BEGIN: Theme Customizer !-->
@@ -3000,11 +3407,11 @@
                     <label class="py-1 px-2 fs-8 fw-bold text-uppercase text-muted text-spacing-2 bg-white border border-gray-2 position-absolute rounded-2 options-label" style="top: -12px">Navigation</label>
                     <div class="row g-2 theme-options-items app-navigation" id="appNavigationList">
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-navigation-light" name="app-navigation" value="1" data-app-navigation="app-navigation-light" checked>
+                            <input type="radio" class="btn-check" id="app-navigation-light" name="app-navigation" value="1" data-app-navigation="app-navigation-light" checked />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-navigation-light">Light</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-navigation-dark" name="app-navigation" value="2" data-app-navigation="app-navigation-dark">
+                            <input type="radio" class="btn-check" id="app-navigation-dark" name="app-navigation" value="2" data-app-navigation="app-navigation-dark" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-navigation-dark">Dark</label>
                         </div>
                     </div>
@@ -3015,11 +3422,11 @@
                     <label class="py-1 px-2 fs-8 fw-bold text-uppercase text-muted text-spacing-2 bg-white border border-gray-2 position-absolute rounded-2 options-label" style="top: -12px">Header</label>
                     <div class="row g-2 theme-options-items app-header" id="appHeaderList">
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-header-light" name="app-header" value="1" data-app-header="app-header-light" checked>
+                            <input type="radio" class="btn-check" id="app-header-light" name="app-header" value="1" data-app-header="app-header-light" checked />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-header-light">Light</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-header-dark" name="app-header" value="2" data-app-header="app-header-dark">
+                            <input type="radio" class="btn-check" id="app-header-dark" name="app-header" value="2" data-app-header="app-header-dark" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-header-dark">Dark</label>
                         </div>
                     </div>
@@ -3030,11 +3437,11 @@
                     <label class="py-1 px-2 fs-8 fw-bold text-uppercase text-muted text-spacing-2 bg-white border border-gray-2 position-absolute rounded-2 options-label" style="top: -12px">Skins</label>
                     <div class="row g-2 theme-options-items app-skin" id="appSkinList">
                         <div class="col-6 text-center position-relative single-option light-button active">
-                            <input type="radio" class="btn-check" id="app-skin-light" name="app-skin" value="1" data-app-skin="app-skin-light">
+                            <input type="radio" class="btn-check" id="app-skin-light" name="app-skin" value="1" data-app-skin="app-skin-light" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-skin-light">Light</label>
                         </div>
                         <div class="col-6 text-center position-relative single-option dark-button">
-                            <input type="radio" class="btn-check" id="app-skin-dark" name="app-skin" value="2" data-app-skin="app-skin-dark">
+                            <input type="radio" class="btn-check" id="app-skin-dark" name="app-skin" value="2" data-app-skin="app-skin-dark" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-skin-dark">Dark</label>
                         </div>
                     </div>
@@ -3045,91 +3452,91 @@
                     <label class="py-1 px-2 fs-8 fw-bold text-uppercase text-muted text-spacing-2 bg-white border border-gray-2 position-absolute rounded-2 options-label" style="top: -12px">Typography</label>
                     <div class="row g-2 theme-options-items font-family" id="fontFamilyList">
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-lato" name="font-family" value="1" data-font-family="app-font-family-lato">
+                            <input type="radio" class="btn-check" id="app-font-family-lato" name="font-family" value="1" data-font-family="app-font-family-lato" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-lato">Lato</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-rubik" name="font-family" value="2" data-font-family="app-font-family-rubik">
+                            <input type="radio" class="btn-check" id="app-font-family-rubik" name="font-family" value="2" data-font-family="app-font-family-rubik" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-rubik">Rubik</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-inter" name="font-family" value="3" data-font-family="app-font-family-inter" checked>
+                            <input type="radio" class="btn-check" id="app-font-family-inter" name="font-family" value="3" data-font-family="app-font-family-inter" checked />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-inter">Inter</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-cinzel" name="font-family" value="4" data-font-family="app-font-family-cinzel">
+                            <input type="radio" class="btn-check" id="app-font-family-cinzel" name="font-family" value="4" data-font-family="app-font-family-cinzel" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-cinzel">Cinzel</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-nunito" name="font-family" value="6" data-font-family="app-font-family-nunito">
+                            <input type="radio" class="btn-check" id="app-font-family-nunito" name="font-family" value="6" data-font-family="app-font-family-nunito" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-nunito">Nunito</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-roboto" name="font-family" value="7" data-font-family="app-font-family-roboto">
+                            <input type="radio" class="btn-check" id="app-font-family-roboto" name="font-family" value="7" data-font-family="app-font-family-roboto" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-roboto">Roboto</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-ubuntu" name="font-family" value="8" data-font-family="app-font-family-ubuntu">
+                            <input type="radio" class="btn-check" id="app-font-family-ubuntu" name="font-family" value="8" data-font-family="app-font-family-ubuntu" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-ubuntu">Ubuntu</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-poppins" name="font-family" value="9" data-font-family="app-font-family-poppins">
+                            <input type="radio" class="btn-check" id="app-font-family-poppins" name="font-family" value="9" data-font-family="app-font-family-poppins" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-poppins">Poppins</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-raleway" name="font-family" value="10" data-font-family="app-font-family-raleway">
+                            <input type="radio" class="btn-check" id="app-font-family-raleway" name="font-family" value="10" data-font-family="app-font-family-raleway" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-raleway">Raleway</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-system-ui" name="font-family" value="11" data-font-family="app-font-family-system-ui">
+                            <input type="radio" class="btn-check" id="app-font-family-system-ui" name="font-family" value="11" data-font-family="app-font-family-system-ui" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-system-ui">System UI</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-noto-sans" name="font-family" value="12" data-font-family="app-font-family-noto-sans">
+                            <input type="radio" class="btn-check" id="app-font-family-noto-sans" name="font-family" value="12" data-font-family="app-font-family-noto-sans" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-noto-sans">Noto Sans</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-fira-sans" name="font-family" value="13" data-font-family="app-font-family-fira-sans">
+                            <input type="radio" class="btn-check" id="app-font-family-fira-sans" name="font-family" value="13" data-font-family="app-font-family-fira-sans" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-fira-sans">Fira Sans</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-work-sans" name="font-family" value="14" data-font-family="app-font-family-work-sans">
+                            <input type="radio" class="btn-check" id="app-font-family-work-sans" name="font-family" value="14" data-font-family="app-font-family-work-sans" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-work-sans">Work Sans</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-open-sans" name="font-family" value="15" data-font-family="app-font-family-open-sans">
+                            <input type="radio" class="btn-check" id="app-font-family-open-sans" name="font-family" value="15" data-font-family="app-font-family-open-sans" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-open-sans">Open Sans</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-maven-pro" name="font-family" value="16" data-font-family="app-font-family-maven-pro">
+                            <input type="radio" class="btn-check" id="app-font-family-maven-pro" name="font-family" value="16" data-font-family="app-font-family-maven-pro" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-maven-pro">Maven Pro</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-quicksand" name="font-family" value="17" data-font-family="app-font-family-quicksand">
+                            <input type="radio" class="btn-check" id="app-font-family-quicksand" name="font-family" value="17" data-font-family="app-font-family-quicksand" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-quicksand">Quicksand</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-montserrat" name="font-family" value="18" data-font-family="app-font-family-montserrat">
+                            <input type="radio" class="btn-check" id="app-font-family-montserrat" name="font-family" value="18" data-font-family="app-font-family-montserrat" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-montserrat">Montserrat</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-josefin-sans" name="font-family" value="19" data-font-family="app-font-family-josefin-sans">
+                            <input type="radio" class="btn-check" id="app-font-family-josefin-sans" name="font-family" value="19" data-font-family="app-font-family-josefin-sans" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-josefin-sans">Josefin Sans</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-ibm-plex-sans" name="font-family" value="20" data-font-family="app-font-family-ibm-plex-sans">
+                            <input type="radio" class="btn-check" id="app-font-family-ibm-plex-sans" name="font-family" value="20" data-font-family="app-font-family-ibm-plex-sans" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-ibm-plex-sans">IBM Plex Sans</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-source-sans-pro" name="font-family" value="5" data-font-family="app-font-family-source-sans-pro">
+                            <input type="radio" class="btn-check" id="app-font-family-source-sans-pro" name="font-family" value="5" data-font-family="app-font-family-source-sans-pro" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-source-sans-pro">Source Sans Pro</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-montserrat-alt" name="font-family" value="21" data-font-family="app-font-family-montserrat-alt">
+                            <input type="radio" class="btn-check" id="app-font-family-montserrat-alt" name="font-family" value="21" data-font-family="app-font-family-montserrat-alt" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-montserrat-alt">Montserrat Alt</label>
                         </div>
                         <div class="col-6 text-center single-option">
-                            <input type="radio" class="btn-check" id="app-font-family-roboto-slab" name="font-family" value="22" data-font-family="app-font-family-roboto-slab">
+                            <input type="radio" class="btn-check" id="app-font-family-roboto-slab" name="font-family" value="22" data-font-family="app-font-family-roboto-slab" />
                             <label class="py-2 fs-9 fw-bold text-dark text-uppercase text-spacing-1 border border-gray-2 w-100 h-100 c-pointer position-relative options-label" for="app-font-family-roboto-slab">Roboto Slab</label>
                         </div>
                     </div>
@@ -3146,7 +3553,6 @@
             </div>
         </div>
     </div>
-
     <!--! ================================================================ !-->
     <!--! [End] Theme Customizer !-->
     <!--! ================================================================ !-->
@@ -3154,17 +3560,18 @@
     <!--! Footer Script !-->
     <!--! ================================================================ !-->
     <!--! BEGIN: Vendors JS !-->
-    <script src="assets/vendors/js/vendors.min.js"></script>
+    <script src="vistas/assets/vendors/js/vendors.min.js"></script>
     <!-- vendors.min.js {always must need to be top} -->
-    <script src="assets/vendors/js/select2.min.js"></script>
-    <script src="assets/vendors/js/select2-active.min.js"></script>
+    <script src="vistas/assets/vendors/js/daterangepicker.min.js"></script>
+    <script src="vistas/assets/vendors/js/apexcharts.min.js"></script>
+    <script src="vistas/assets/vendors/js/circle-progress.min.js"></script>
     <!--! END: Vendors JS !-->
     <!--! BEGIN: Apps Init  !-->
-    <script src="assets/js/common-init.min.js"></script>
-    <script src="assets/js/settings-init.min.js"></script>
+    <script src="vistas/assets/js/common-init.min.js"></script>
+    <script src="vistas/assets/js/dashboard-init.min.js"></script>
     <!--! END: Apps Init !-->
     <!--! BEGIN: Theme Customizer  !-->
-    <script src="assets/js/theme-customizer-init.min.js"></script>
+    <script src="vistas/assets/js/theme-customizer-init.min.js"></script>
     <!--! END: Theme Customizer !-->
 </body>
 
